@@ -1,0 +1,352 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Family location sharing, driving safety, and family-safety mobile apps",
+  "you": "Life360",
+  "generated": "2026-10-20T02:23:57+00:00",
+  "state_updated": "2026-10-20T02:19:58+00:00",
+  "repo": "nico497/Life360"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Life360",
+   "tracked": 98,
+   "considered": 97,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Bark",
+   "tracked": 3208,
+   "considered": 2235,
+   "own_pricing": "https://www.bark.us/pricing/",
+   "hubs": []
+  },
+  {
+   "name": "FamiSafe",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Qustodio",
+   "tracked": 550,
+   "considered": 444,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "GeoZilla",
+   "tracked": 15,
+   "considered": 15,
+   "own_pricing": null,
+   "hubs": [
+    "https://geozilla.com/business/case-studies/"
+   ]
+  },
+  {
+   "name": "Find My Kids",
+   "tracked": 988,
+   "considered": 988,
+   "own_pricing": null,
+   "hubs": [
+    "https://findmykids.org/lt/about/reviews",
+    "https://findmykids.org/zhcn/about/reviews",
+    "https://findmykids.org/et/about/reviews",
+    "https://findmykids.org/about/reviews"
+   ]
+  },
+  {
+   "name": "Google Family Link",
+   "tracked": 129,
+   "considered": 3,
+   "own_pricing": null,
+   "hubs": []
+  }
+ ],
+ "vendors": [
+  "Bark",
+  "FamiSafe",
+  "Qustodio",
+  "GeoZilla",
+  "Find My Kids",
+  "Google Family Link",
+  "Life360",
+  "Apple Find My",
+  "mSpy",
+  "Net Nanny",
+  "Norton Family",
+  "Circle by Disney",
+  "Glympse",
+  "Jiobit",
+  "Verizon Family",
+  "AT&T Secure Family"
+ ],
+ "excluded": {
+  "webinars, glossary, events and category pages": 69,
+  "templated pages": 1137
+ },
+ "pages": [
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/bark-for-schools-case-study-plum-borough/",
+   "path": "/blog/bark-for-schools-case-study-plum-borough",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/building-a-holistic-approach-to-safety-a-littleton-case-study/",
+   "path": "/learn/bcp-resources/building-a-holistic-approach-to-safety-a-littleton-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/how-bark-empowers-survivors-in-recovery-a-case-study-with-poiema-foundation/",
+   "path": "/learn/bcp-resources/how-bark-empowers-survivors-in-recovery-a-case-study-with-poiema-foundation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/how-bark-for-schools-helps-protect-students-online-and-in-real-life-a-case-study-with-plum-borough-school-district/",
+   "path": "/learn/bcp-resources/how-bark-for-schools-helps-protect-students-online-and-in-real-life-a-case-study-with-plum-borough-school-district",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/safety-at-school-a-case-study-with-mount-vernon-presbyterian-school/",
+   "path": "/learn/bcp-resources/safety-at-school-a-case-study-with-mount-vernon-presbyterian-school",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/littleton-case-study/",
+   "path": "/learn/littleton-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/bark-vs-qustodio/",
+   "path": "/blog/bark-vs-qustodio",
+   "type": "vs_you",
+   "targets": [
+    "Qustodio"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/news/life360-vs-bark/",
+   "path": "/blog/news/life360-vs-bark",
+   "type": "vs_you",
+   "targets": [
+    "Life360"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-famisafe/",
+   "path": "/learn/bark-vs-famisafe",
+   "type": "vs_you",
+   "targets": [
+    "FamiSafe"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-google-family-link/",
+   "path": "/learn/bark-vs-google-family-link",
+   "type": "vs_you",
+   "targets": [
+    "Google Family Link"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-life360/",
+   "path": "/learn/bark-vs-life360",
+   "type": "vs_you",
+   "targets": [
+    "Life360"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-mspy/",
+   "path": "/learn/bark-vs-mspy",
+   "type": "vs_you",
+   "targets": [
+    "mSpy"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-net-nanny/",
+   "path": "/learn/bark-vs-net-nanny",
+   "type": "vs_you",
+   "targets": [
+    "Net Nanny"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-norton-family/",
+   "path": "/learn/bark-vs-norton-family",
+   "type": "vs_you",
+   "targets": [
+    "Norton Family"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-vs-qustodio/",
+   "path": "/learn/bark-vs-qustodio",
+   "type": "vs_you",
+   "targets": [
+    "Qustodio"
+   ]
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/life360-vs-bark/",
+   "path": "/learn/life360-vs-bark",
+   "type": "vs_you",
+   "targets": [
+    "Life360"
+   ]
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/compare-qustodio-and-net-nanny/",
+   "path": "/en/compare-qustodio-and-net-nanny",
+   "type": "vs_you",
+   "targets": [
+    "Net Nanny"
+   ]
+  },
+  {
+   "site": "GeoZilla",
+   "url": "https://geozilla.com/business/case-studies/sentience/",
+   "path": "/business/case-studies/sentience",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "GeoZilla",
+   "url": "https://geozilla.com/business/case-studies/trackimo/",
+   "path": "/business/case-studies/trackimo",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/bark-alternatives",
+   "path": "/blog/en/bark-alternatives",
+   "type": "alt",
+   "targets": [
+    "Bark"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/life360-alternatives",
+   "path": "/blog/en/life360-alternatives",
+   "type": "alt",
+   "targets": [
+    "Life360"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/mspy-alternatives",
+   "path": "/blog/en/mspy-alternatives",
+   "type": "alt",
+   "targets": [
+    "mSpy"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/qustodio-alternatives",
+   "path": "/blog/en/qustodio-alternatives",
+   "type": "alt",
+   "targets": [
+    "Qustodio"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/bark-vs-qustodio",
+   "path": "/blog/en/bark-vs-qustodio",
+   "type": "vs_rivals",
+   "targets": [
+    "Bark",
+    "Qustodio"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/life360-vs-bark",
+   "path": "/blog/en/life360-vs-bark",
+   "type": "vs_rivals",
+   "targets": [
+    "Bark",
+    "Life360"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/life360-vs-verizon-smart-family",
+   "path": "/blog/en/life360-vs-verizon-smart-family",
+   "type": "vs_rivals",
+   "targets": [
+    "Life360",
+    "Verizon Family"
+   ]
+  },
+  {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/blog/en/life360-vs-findmykids",
+   "path": "/blog/en/life360-vs-findmykids",
+   "type": "vs_you",
+   "targets": [
+    "Life360"
+   ]
+  }
+ ]
+}
