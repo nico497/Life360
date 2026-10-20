@@ -1,0 +1,53 @@
+{
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Family location sharing, driving safety, and family-safety mobile apps",
+  "you": "Life360",
+  "competitors": [
+    "Bark",
+    "FamiSafe",
+    "Qustodio",
+    "GeoZilla",
+    "Find My Kids",
+    "Google Family Link"
+  ],
+  "vendors": {
+    "Bark": "\\bbark\\b(?! ?beetle)",
+    "FamiSafe": "famisafe",
+    "Qustodio": "qustodio",
+    "GeoZilla": "geozilla",
+    "Find My Kids": "find ?my ?kids",
+    "Google Family Link": "family ?link",
+    "Life360": "life ?360",
+    "Apple Find My": "find ?my\\b.*apple|apple.*find ?my",
+    "mSpy": "\\bmspy\\b",
+    "Net Nanny": "net ?nanny",
+    "Norton Family": "norton family",
+    "Circle by Disney": "circle by disney|meet circle",
+    "Glympse": "glympse",
+    "Jiobit": "jiobit",
+    "Verizon Family": "verizon family|smart family",
+    "AT&T Secure Family": "secure family"
+  },
+  "audiences": [
+    ["Family location sharing", "location sharing|family locat"],
+    ["Driving safety and crash detection", "crash detection|driving safety|driver report"],
+    ["Parental controls", "parental control"],
+    ["Screen time management", "screen time"],
+    ["Teen safety and driving", "teen driv|teen safety"],
+    ["Geofencing and place alerts", "geofenc|place alert"],
+    ["Device and app monitoring", "app monitoring|device monitoring|screen monitoring"],
+    ["Emergency and SOS features", "\\bsos\\b|emergency alert|panic button"],
+    ["Identity theft and credit protection", "identity theft|credit protection|identity monitoring"],
+    ["Pet and item tracking", "pet tracker|item tracker|\\btile\\b"],
+    ["Social media and online safety", "social media monitoring|cyberbullying|online safety"],
+    ["Family communication", "family chat|family communication"],
+    ["Pricing and plans", "pricing|membership plan|subscription"],
+    ["Privacy and data", "privacy|data protection"],
+    ["Senior and elder safety", "elder(ly)? safety|senior safety"],
+    ["Roadside assistance", "roadside assistance"],
+    ["Comparisons and alternatives", "alternative|vs\\.|comparison"],
+    ["App reviews and ratings", "app store review|app rating"],
+    ["Setup and how-to guides", "how to set up|setup guide|getting started"],
+    ["Product updates and releases", "product update|new feature|launch"]
+  ]
+}
