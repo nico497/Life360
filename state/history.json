@@ -1,0 +1,52 @@
+{
+ "weeks": [
+  {
+   "week": "2026-W43",
+   "date": "2026-10-20T02:19:58+00:00",
+   "sites": {
+    "Life360": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 98
+    },
+    "Bark": {
+     "new": 4,
+     "updated": 6,
+     "removed": 0,
+     "pages": 2303
+    },
+    "FamiSafe": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Qustodio": {
+     "new": 3,
+     "updated": 3,
+     "removed": 0,
+     "pages": 444
+    },
+    "GeoZilla": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 15
+    },
+    "Find My Kids": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 988
+    },
+    "Google Family Link": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 3
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,1387 @@
+{
+ "meta": {
+  "title": "Competitor Radar",
+  "niche": "Family location sharing, driving safety, and family-safety mobile apps",
+  "updated": "2026-10-20T02:19:58+00:00",
+  "window_days": 30,
+  "repo": "nico497/Life360",
+  "first_run": true,
+  "errors": [],
+  "pending": 57,
+  "analysis_stale": false,
+  "per_run": 200,
+  "tracking_since": "2026-10-20T02:19:58+00:00",
+  "tracking_days": 0
+ },
+ "types": [
+  [
+   "compare",
+   "Comparison / alternatives"
+  ],
+  [
+   "howto",
+   "How-to / explainer"
+  ],
+  [
+   "list",
+   "Listicle"
+  ],
+  [
+   "research",
+   "Original research"
+  ],
+  [
+   "case",
+   "Case study"
+  ],
+  [
+   "opinion",
+   "Opinion / thought leadership"
+  ],
+  [
+   "news",
+   "Product / company news"
+  ],
+  [
+   "landing",
+   "Landing / service page"
+  ]
+ ],
+ "analysis": {
+  "summary": "Bark and Qustodio are the only ones publishing. Bark pushes buyers toward its phone and watch; Qustodio builds parent trust with research and guides. Life360 and the other three were quiet.",
+  "points": [
+   {
+    "text": "Bark updated 27 older pages and added 5 new ones, mostly comparisons and landing pages. It is refreshing pages that push buyers to its phone and watch.",
+    "names": [
+     "Bark"
+    ]
+   },
+   {
+    "text": "Qustodio's 18 learning pages lean on research reports and parent guides, with 9 research pages updated. It is aiming at trust, not sales.",
+    "names": [
+     "Qustodio"
+    ]
+   },
+   {
+    "text": "Life360 had 0 new and 0 updated pages in 30 days while Bark and Qustodio kept publishing. Life360 is silent on teen-safety topics they cover.",
+    "names": [
+     "Life360"
+    ]
+   }
+  ],
+  "plays": {
+   "Life360": {
+    "play": "No new or updated pages in 30 days across 98 pages. No visible play this period.",
+    "aimed": "Families evaluating safety apps"
+   },
+   "Bark": {
+    "play": "Refreshes comparison pages against phone carriers and kids' watches. Adds a few guides on TikTok, gaming and iOS 27.",
+    "aimed": "Parents ready to buy devices"
+   },
+   "Qustodio": {
+    "play": "Publishes and refreshes original research, plus parent guides on AI apps, social media and phone readiness.",
+    "aimed": "Parents researching kids' online safety"
+   },
+   "GeoZilla": {
+    "play": "No new or updated pages in 30 days. Small site of 15 pages.",
+    "aimed": "Not clear from data"
+   },
+   "Find My Kids": {
+    "play": "No new or updated pages in 30 days across 988 pages.",
+    "aimed": "Not clear from data"
+   },
+   "Google Family Link": {
+    "play": "No new or updated pages in 30 days. Most pages are international copies.",
+    "aimed": "Not clear from data"
+   }
+  },
+  "shared": [
+   {
+    "title": "Guides on new apps and platforms",
+    "text": "Bark covers TikTok and iOS 27. Qustodio covers Swerve AI and online impersonation. Both react to news parents worry about, so Life360 could join in.",
+    "names": [
+     "Bark",
+     "Qustodio"
+    ]
+   },
+   {
+    "title": "Teen wellbeing and social media talks",
+    "text": "Bark has teen mental health and gaming bullying pages. Qustodio has loneliness and peer-pressure pages. Both go beyond tracking into family conversations.",
+    "names": [
+     "Bark",
+     "Qustodio"
+    ]
+   }
+  ],
+  "gaps": [
+   {
+    "title": "Location-sharing vs. kids' watches",
+    "text": "Bark has 15 comparison pages, but they are about its own phone and watch. Nobody compares location-sharing apps head to head for parents."
+   },
+   {
+    "title": "Driving safety for teens",
+    "text": "None of the active companies published driving-safety content this period. Life360 could own new-driver and teen-driving guides."
+   },
+   {
+    "title": "Original family-safety research",
+    "text": "Only Qustodio publishes research (9 pages). Life360 could publish its own data on family location and driving habits."
+   }
+  ],
+  "versus": {
+   "Bark": "Bark ships comparison and landing pages aimed at buyers, and updated 27 pages. Life360 published and updated nothing in the same 30 days.",
+   "Qustodio": "Qustodio publishes research and parent guides and updated 15 pages. Life360 showed no new or updated content in the period.",
+   "GeoZilla": "GeoZilla is quiet like Life360, with no activity in 30 days and a much smaller site of 15 pages.",
+   "Find My Kids": "Find My Kids also had no activity in 30 days, though its site of 988 pages is far bigger than Life360's 98.",
+   "Google Family Link": "Google Family Link had no activity either. Its 129 pages are close to Life360's 98, and most are international copies."
+  }
+ },
+ "sites": [
+  {
+   "name": "Life360",
+   "site": "https://www.life360.com",
+   "you": true,
+   "n": 0,
+   "site_pages": 98,
+   "n_prev": 0,
+   "refreshed": 0,
+   "mix": {
+    "compare": 0,
+    "howto": 0,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 0
+   },
+   "stages": {
+    "learning": 0,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 0
+   },
+   "topics": [],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 0,
+   "updated": 0,
+   "bulk": [],
+   "programmatic": [],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://www.life360.com/sitemap-en-us.xml",
+   "pages": 98,
+   "undated": 98,
+   "new_urls": 0,
+   "play": "No new or updated pages in 30 days across 98 pages. No visible play this period.",
+   "aimed": "Families evaluating safety apps"
+  },
+  {
+   "name": "Bark",
+   "site": "https://www.bark.us",
+   "you": false,
+   "n": 32,
+   "site_pages": 3208,
+   "n_prev": 38,
+   "refreshed": 32,
+   "mix": {
+    "compare": 15,
+    "howto": 4,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 13
+   },
+   "stages": {
+    "learning": 5,
+    "comparing": 0,
+    "buying": 27,
+    "customers": 0
+   },
+   "topics": [
+    "kids smart watch comparison features",
+    "teen mental health conversations with parents",
+    "is tiktok safe for kids",
+    "ios 27 parental controls and safety",
+    "bullying in online video games"
+   ],
+   "unclassified": 19,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 5,
+   "updated": 27,
+   "bulk": [],
+   "programmatic": [
+    {
+     "section": "app-overview",
+     "pages": 315,
+     "new": 0
+    },
+    {
+     "section": "content-review",
+     "pages": 195,
+     "new": 0
+    },
+    {
+     "section": "slang-word",
+     "pages": 146,
+     "new": 0
+    },
+    {
+     "section": "tech-guide",
+     "pages": 134,
+     "new": 0
+    },
+    {
+     "section": "app-reviews",
+     "pages": 115,
+     "new": 0
+    }
+   ],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://www.bark.us/sitemap_index.xml",
+   "pages": 3208,
+   "undated": 0,
+   "new_urls": 0,
+   "play": "Refreshes comparison pages against phone carriers and kids' watches. Adds a few guides on TikTok, gaming and iOS 27.",
+   "aimed": "Parents ready to buy devices"
+  },
+  {
+   "name": "FamiSafe",
+   "site": "https://www.familysafe.wondershare.com",
+   "you": false,
+   "n": 0,
+   "site_pages": 0,
+   "n_prev": 0,
+   "refreshed": 0,
+   "mix": {
+    "compare": 0,
+    "howto": 0,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 0
+   },
+   "stages": {
+    "learning": 0,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 0
+   },
+   "topics": [],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 0,
+   "updated": 0,
+   "bulk": [],
+   "programmatic": [],
+   "ok": false,
+   "error": "no sitemap or feed found. Add a sitemap: or feed: line for this site in config.yaml",
+   "method": null,
+   "url": "https://www.familysafe.wondershare.com",
+   "play": "",
+   "aimed": ""
+  },
+  {
+   "name": "Qustodio",
+   "site": "https://www.qustodio.com",
+   "you": false,
+   "n": 19,
+   "site_pages": 550,
+   "n_prev": 7,
+   "refreshed": 18,
+   "mix": {
+    "compare": 0,
+    "howto": 6,
+    "list": 1,
+    "research": 9,
+    "case": 0,
+    "opinion": 1,
+    "news": 1,
+    "landing": 1
+   },
+   "stages": {
+    "learning": 18,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 1
+   },
+   "topics": [
+    "managing child social media pressure",
+    "swerve ai safety for kids",
+    "family digital agreement template",
+    "child phone readiness checklist guide",
+    "screen-free family activities ideas"
+   ],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 4,
+   "updated": 15,
+   "bulk": [],
+   "programmatic": [
+    {
+     "section": "zh-hans",
+     "pages": 106,
+     "new": 0
+    }
+   ],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://www.qustodio.com/sitemap_index.xml",
+   "pages": 550,
+   "undated": 0,
+   "new_urls": 0,
+   "play": "Publishes and refreshes original research, plus parent guides on AI apps, social media and phone readiness.",
+   "aimed": "Parents researching kids' online safety"
+  },
+  {
+   "name": "GeoZilla",
+   "site": "https://geozilla.com",
+   "you": false,
+   "n": 0,
+   "site_pages": 15,
+   "n_prev": 0,
+   "refreshed": 0,
+   "mix": {
+    "compare": 0,
+    "howto": 0,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 0
+   },
+   "stages": {
+    "learning": 0,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 0
+   },
+   "topics": [],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 0,
+   "updated": 0,
+   "bulk": [],
+   "programmatic": [],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://geozilla.com/sitemap.xml",
+   "pages": 15,
+   "undated": 0,
+   "new_urls": 0,
+   "play": "No new or updated pages in 30 days. Small site of 15 pages.",
+   "aimed": "Not clear from data"
+  },
+  {
+   "name": "Find My Kids",
+   "site": "https://findmykids.org",
+   "you": false,
+   "n": 0,
+   "site_pages": 988,
+   "n_prev": 0,
+   "refreshed": 0,
+   "mix": {
+    "compare": 0,
+    "howto": 0,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 0
+   },
+   "stages": {
+    "learning": 0,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 0
+   },
+   "topics": [],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 0,
+   "updated": 0,
+   "bulk": [],
+   "programmatic": [],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://findmykids.org/sitemap.xml",
+   "pages": 988,
+   "undated": 15,
+   "new_urls": 0,
+   "play": "No new or updated pages in 30 days across 988 pages.",
+   "aimed": "Not clear from data"
+  },
+  {
+   "name": "Google Family Link",
+   "site": "https://families.google.com/familylink",
+   "you": false,
+   "n": 0,
+   "site_pages": 129,
+   "n_prev": 0,
+   "refreshed": 0,
+   "mix": {
+    "compare": 0,
+    "howto": 0,
+    "list": 0,
+    "research": 0,
+    "case": 0,
+    "opinion": 0,
+    "news": 0,
+    "landing": 0
+   },
+   "stages": {
+    "learning": 0,
+    "comparing": 0,
+    "buying": 0,
+    "customers": 0
+   },
+   "topics": [],
+   "unclassified": 0,
+   "removed": 0,
+   "removed_titles": [],
+   "new": 0,
+   "updated": 0,
+   "bulk": [],
+   "programmatic": [
+    {
+     "section": "intl",
+     "pages": 126,
+     "new": 0
+    }
+   ],
+   "ok": true,
+   "error": null,
+   "method": "sitemap",
+   "url": "https://families.google.com/familylink/sitemap.xml",
+   "pages": 129,
+   "undated": 129,
+   "new_urls": 0,
+   "play": "No new or updated pages in 30 days. Most pages are international copies.",
+   "aimed": "Not clear from data"
+  }
+ ],
+ "pages": [
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/protects/bark-app-android/",
+   "title": "Bark App for Android",
+   "date": "2026-10-19T18:31:31+00:00",
+   "kind": "updated",
+   "published": "2026-10-16T12:54:56+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Parental control app for Android",
+   "search": "best parental control app Android",
+   "why": "Converts Android parents ready to purchase parental monitoring and safety tools."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/protects/bark-app-ios/",
+   "title": "Bark App for iOS",
+   "date": "2026-10-19T18:27:21+00:00",
+   "kind": "updated",
+   "published": "2026-10-16T12:54:54+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Parental control app for iOS",
+   "search": "best parental control app iOS",
+   "why": "Converts iOS users ready to purchase parental monitoring with safety-focused social proof."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/bullying-in-video-games/",
+   "title": "Bullying in Online Games: Voice Chat, Trash Talk, and When It Crosses a Line",
+   "date": "2026-10-19T14:41:50+00:00",
+   "kind": "new",
+   "published": "2026-10-19T14:41:50+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Bullying in online video games",
+   "search": "bullying in online video games warning signs",
+   "why": "Educates parents about gaming safety risks and builds trust authority in child protection."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/alert-resources/",
+   "title": "Know what to do next with Alert resources",
+   "date": "2026-10-19T09:31:56+00:00",
+   "kind": "new",
+   "published": "2026-10-19T09:31:56+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "customers",
+   "topic": "Alert resources for parent guidance",
+   "search": "parenting advice child online activity",
+   "why": "Helps existing parents understand and use Alert resources feature for child safety conversations."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/creators/",
+   "title": "Bark's Creator Program",
+   "date": "2026-10-16T18:35:37+00:00",
+   "kind": "updated",
+   "published": "2024-09-10T16:21:59+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Creator program partnership opportunity",
+   "search": "creator program affiliate commission",
+   "why": "Recruits content creators and influencers to promote Bark in exchange for revenue share."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/ios-27/",
+   "title": "iOS 27: A Parent’s Guide to New Features",
+   "date": "2026-10-15T18:01:52+00:00",
+   "kind": "new",
+   "published": "2026-10-15T18:01:52+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "iOS 27 parental controls and safety",
+   "search": "iOS 27 new parental controls features",
+   "why": "Educates parents on iOS updates while positioning Bark's gaps-filling capabilities."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/abc-model-digital-safety/",
+   "title": "How to use the ABC model for digital safety and wellbeing",
+   "date": "2026-10-15T08:06:01+00:00",
+   "kind": "new",
+   "published": "2026-10-15T08:06:01+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "ABC model digital safety wellbeing",
+   "search": "how to keep kids safe digital",
+   "why": "Establishes framework for parents learning digital safety basics and Qustodio's role."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/protects/bark-home/",
+   "title": "Bark Home",
+   "date": "2026-10-14T19:10:34+00:00",
+   "kind": "new",
+   "published": "2026-10-14T19:10:34+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Wi-Fi parental controls device",
+   "search": "parental control device Wi-Fi router",
+   "why": "Converts families ready to buy device with pricing, features, setup, and customer testimonials."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/medicaid/",
+   "title": "Medicaid-Funded Bark Devices for I/DD Support",
+   "date": "2026-10-13T19:37:09+00:00",
+   "kind": "updated",
+   "published": "2026-09-10T18:25:45+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Medicaid-funded safety devices I/DD",
+   "search": "Medicaid funded Bark Phone Watch",
+   "why": "Drives qualification and purchase by showing Medicaid-eligible families how to access products with government funding."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/get-started/",
+   "title": "Get Started",
+   "date": "2026-10-13T17:01:56+00:00",
+   "kind": "updated",
+   "published": "2023-10-12T19:42:39+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark products pricing features comparison",
+   "search": "which Bark product is right for my family",
+   "why": "Helps parents decide which safety product matches their needs before purchase."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/social-media-teen-loneliness/",
+   "title": "Is social media making teens lonelier, or helping them connect?",
+   "date": "2026-10-13T11:03:12+00:00",
+   "kind": "new",
+   "published": "2026-10-13T11:03:12+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "social media impact on teen loneliness",
+   "search": "does social media make teens lonely",
+   "why": "Educates parents on teen social media risks, positioning Qustodio as trusted family safety expert."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/is-tiktok-dangerous/",
+   "title": "Is TikTok Actually Dangerous for My Kid?",
+   "date": "2026-10-08T17:27:09+00:00",
+   "kind": "new",
+   "published": "2026-10-08T17:27:09+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Is TikTok safe for kids",
+   "search": "is tiktok dangerous for kids",
+   "why": "Builds authority on child safety by answering parent concerns about popular platforms."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/the-digital-dilemma/",
+   "title": "The Digital Dilemma",
+   "date": "2026-10-05T13:37:49+00:00",
+   "kind": "updated",
+   "published": "2025-01-13T14:45:00+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Children's screen time digital safety trends",
+   "search": "children screen time report 2024",
+   "why": "Establishes thought leadership in child digital safety through original annual research data."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/lost-in-the-scroll/",
+   "title": "Lost in the Scroll",
+   "date": "2026-10-05T13:13:51+00:00",
+   "kind": "updated",
+   "published": "2026-01-09T18:01:05+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Children's app and AI usage trends",
+   "search": "children app usage AI statistics 2025",
+   "why": "Establishes thought leadership with original research data on digital parenting trends."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/online-impersonation-kids/",
+   "title": "Catfishing, copycats, and fakes: a parents’ guide to online impersonation",
+   "date": "2026-10-05T13:10:31+00:00",
+   "kind": "updated",
+   "published": "2026-09-30T14:16:43+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Online impersonation risks for kids",
+   "search": "online impersonation catfishing children safety",
+   "why": "Educates parents on recognizing and preventing online impersonation threats to children."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/bark-watch/",
+   "title": "The Bark Watch | Bark",
+   "date": "2026-10-02T19:32:52+00:00",
+   "kind": "updated",
+   "published": "2024-10-01T00:00:00+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Kids smartwatch with GPS tracking",
+   "search": "best kids smartwatch GPS tracking",
+   "why": "Converts buyers ready to purchase a kid-safe smartwatch with location tracking."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-phone-vs-walmart-family-mobile-kids-phones-plans/",
+   "title": "Bark Phone vs Walmart Family Mobile: Which Is the Best Option for Kids?",
+   "date": "2026-10-02T18:12:06+00:00",
+   "kind": "updated",
+   "published": "2023-02-23T19:45:53+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Phone vs Walmart Family Mobile",
+   "search": "Bark Phone vs Walmart Family Mobile kids",
+   "why": "Captures parents ready to buy, comparing Bark's solution against a direct competitor's offering."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-phone-vs-verizon-kids-phones-plans/",
+   "title": "Bark Phone vs Verizon Phones for Kids",
+   "date": "2026-10-02T18:11:58+00:00",
+   "kind": "updated",
+   "published": "2023-02-14T20:16:45+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids phone safety features comparison",
+   "search": "Bark Phone vs Verizon kids phone",
+   "why": "Converts parents deciding between Bark and Verizon kid phones with direct feature comparison."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-phone-vs-mint-mobile-kids-phones-plans/",
+   "title": "Bark Phone vs Mint Mobile: Which Is the Best Option for Kids?",
+   "date": "2026-10-02T18:11:51+00:00",
+   "kind": "updated",
+   "published": "2023-07-18T13:59:04+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "kids phone plans comparison",
+   "search": "Bark Phone vs Mint Mobile kids phones",
+   "why": "Captures parents evaluating Bark against competitor alternatives during purchase decision."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-phone-vs-metro-pcs-kids-phones-plans/",
+   "title": "Bark Phone vs Metro Phones: Which Is the Best Option for Kids & Teens?",
+   "date": "2026-10-02T18:11:44+00:00",
+   "kind": "updated",
+   "published": "2023-02-23T19:41:36+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids phones parental controls comparison",
+   "search": "Bark Phone vs Metro PCS kids phones",
+   "why": "Converts buyers actively comparing Bark with competitor MetroPCS before purchasing."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-phone-vs-att-kids-phones-plans/",
+   "title": "Bark Phone vs AT&T Phones for Kids: Which Is the Best Option for Kids & Teens?",
+   "date": "2026-10-02T18:11:36+00:00",
+   "kind": "updated",
+   "published": "2023-02-23T19:35:31+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Phone vs AT&T kids phones",
+   "search": "best kids phone vs AT&T",
+   "why": "Captures buyers comparing Bark Phone with AT&T's competing family phone offerings."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/switch-and-save-gabb/",
+   "title": "Switch from Gabb & Save | Bark",
+   "date": "2026-10-02T17:54:27+00:00",
+   "kind": "updated",
+   "published": "2026-06-29T19:41:25+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Switch from Gabb to Bark",
+   "search": "switch from gabb to bark phone save",
+   "why": "Converts Gabb customers with exclusive discounts and direct feature comparison."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/bark-phone-pro/",
+   "title": "Bark Phone Pro",
+   "date": "2026-10-02T17:54:24+00:00",
+   "kind": "updated",
+   "published": "2026-02-11T14:17:41+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Bark Phone Pro kids smartphone",
+   "search": "best phone for kids safety features",
+   "why": "Converts ready-to-buy parents with device specs, pricing, and parental control features."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/what-teens-wish-parents-knew-mental-health/",
+   "title": "What Teens Wish Their Parents Knew About Their Mental Health",
+   "date": "2026-10-02T12:53:19+00:00",
+   "kind": "new",
+   "published": "2026-10-02T12:53:19+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Teen mental health conversations with parents",
+   "search": "how to talk to teen about mental health",
+   "why": "Educates parents on teen mental health to establish trust and position Bark as a safety partner."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-other-kids-watches/",
+   "title": "Bark Watch vs Other Kids' Watches",
+   "date": "2026-10-01T18:26:15+00:00",
+   "kind": "updated",
+   "published": "2024-11-27T16:11:39+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "kids smartwatch safety features comparison",
+   "search": "best kids smartwatch safety monitoring",
+   "why": "Converts shoppers deciding between Bark Watch and competitors through detailed feature comparisons."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/tim-tebow/",
+   "title": "Tim Tebow x Bark — 20% of Every Phone Supports the Tim Tebow Foundation",
+   "date": "2026-10-01T17:45:04+00:00",
+   "kind": "updated",
+   "published": "2026-05-08T19:16:36+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Bark Phone family safety device",
+   "search": "Bark Phone kids safety family",
+   "why": "Drives phone purchases with celebrity endorsement and charity tie-in to convert buying-stage parents."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/about-us/",
+   "title": "About us",
+   "date": "2026-10-01T16:23:43+00:00",
+   "kind": "updated",
+   "published": "2024-12-20T13:36:32+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Company history and mission",
+   "search": "Qustodio family safety company",
+   "why": "Establishes brand authority and founder story to build trust with prospects."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/qustodio-releases-2023-annual-report/",
+   "title": "Qustodio releases 2023 Annual Report, Born connected: The rise of the AI generation",
+   "date": "2026-10-01T13:16:16+00:00",
+   "kind": "updated",
+   "published": "2024-01-24T09:00:05+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Children's digital habits AI generation",
+   "search": "children technology habits report 2023",
+   "why": "Establishes authority by sharing original research on children's tech use trends."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/tiktoks-grip-on-genz-revealed/",
+   "title": "Kids spend nearly 2 hrs/day on TikTok - some prefer it over Google for searching",
+   "date": "2026-10-01T13:01:29+00:00",
+   "kind": "updated",
+   "published": "2024-03-26T11:16:28+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Gen Z TikTok usage and behavior",
+   "search": "how much time Gen Z spend on TikTok",
+   "why": "Establishes authority on Gen Z digital habits for parents seeking to understand kids' online behavior."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/apps-through-the-ages-australia/",
+   "title": "Nearly half of Australian kids aged 10-15 spending over two hours a day on TikTok: Qustodio study",
+   "date": "2026-10-01T12:57:11+00:00",
+   "kind": "updated",
+   "published": "2024-08-18T07:00:53+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Australian kids social media app usage",
+   "search": "how much time kids spend on TikTok Australia",
+   "why": "Establishes Qustodio as data-driven authority on child app habits and risks."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/apps-through-the-ages-us/",
+   "title": "Apps through the ages: A Qustodio study on kids’ tech use in the USA",
+   "date": "2026-10-01T12:52:23+00:00",
+   "kind": "updated",
+   "published": "2024-08-19T13:02:37+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Kids app usage by age demographics",
+   "search": "what apps do kids use by age",
+   "why": "Establishes research authority on child tech habits to build parent trust."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/qustodio-releases-2024-annual-report/",
+   "title": "Qustodio releases 2024 report on kids' app usage, The Digital Dilemma: Childhood at a Crossroads",
+   "date": "2026-10-01T10:41:01+00:00",
+   "kind": "updated",
+   "published": "2025-01-21T14:00:46+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "kids app usage trends 2024",
+   "search": "children screen time social media 2024",
+   "why": "Establishes authority with original research on child digital behavior and parental concerns."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/qustodio-releases-new-uk-insights/",
+   "title": "Qustodio releases new UK insights into children’s digital lives shaped by algorithms, apps, and AI",
+   "date": "2026-10-01T10:38:27+00:00",
+   "kind": "updated",
+   "published": "2026-02-10T07:00:53+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "children's digital use algorithms AI parenting",
+   "search": "how children use apps algorithms AI 2025",
+   "why": "Establishes thought leadership with original research on child digital behavior trends."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/annual-report-2025/",
+   "title": "Lost in the Scroll: Qustodio Releases New Data on How Algorithms, Apps, and AI Are Shaping Childhood",
+   "date": "2026-10-01T10:31:40+00:00",
+   "kind": "updated",
+   "published": "2026-02-10T07:00:45+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "How algorithms shape children's digital experiences",
+   "search": "how algorithms affect children online",
+   "why": "Establishes Qustodio as thought leader on child digital safety through original research data."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/screen-free-holiday-activities/",
+   "title": "90 screen-free activities to enjoy family time together",
+   "date": "2026-10-01T09:18:17+00:00",
+   "kind": "updated",
+   "published": "2025-12-10T08:00:30+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Screen-free family activities ideas",
+   "search": "screen free activities for kids families",
+   "why": "Builds trust with parents seeking healthy screen time balance solutions."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/should-i-get-my-child-a-phone-checklist/",
+   "title": "Should I get my child a phone? The complete guide",
+   "date": "2026-10-01T08:11:34+00:00",
+   "kind": "updated",
+   "published": "2025-12-01T07:00:12+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Child phone readiness checklist guide",
+   "search": "should I get my child a phone",
+   "why": "Helps parents research whether their child is ready for first phone before buying."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/informational-tech/",
+   "title": "Informational Tech",
+   "date": "2026-09-30T22:06:29+00:00",
+   "kind": "updated",
+   "published": "2025-07-15T20:53:33+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "School online safety monitoring and filtering",
+   "search": "school internet safety software for students",
+   "why": "Showcases Bark's free and premium school safety plans to convert schools making purchasing decisions."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/barks-connected-communities/",
+   "title": "Bark’s Connected Communities",
+   "date": "2026-09-30T22:05:00+00:00",
+   "kind": "updated",
+   "published": "2025-04-24T18:44:57+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "school digital safety training program",
+   "search": "digital safety training for schools",
+   "why": "Converts schools into buyers of their in-person safety education program."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/products-monitoring/",
+   "title": "Monitoring Software for K-12 Schools",
+   "date": "2026-09-30T22:03:24+00:00",
+   "kind": "updated",
+   "published": "2026-01-14T21:38:59+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "School monitoring software for student safety",
+   "search": "student monitoring software for schools",
+   "why": "Educate school districts on AI monitoring capabilities and drive demo requests."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/disabilities/",
+   "title": "Empowering Safer Digital Independence with Bark",
+   "date": "2026-09-30T22:01:56+00:00",
+   "kind": "updated",
+   "published": "2025-09-04T17:25:22+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Safety devices for individuals with disabilities",
+   "search": "assistive technology safety for disabilities",
+   "why": "Shows how Bark's devices solve safety for disabled users, now Medicaid-approved."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/solutions/",
+   "title": "Bark Community Partners",
+   "date": "2026-09-30T22:00:53+00:00",
+   "kind": "updated",
+   "published": "2023-05-31T20:07:02+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Digital safety for diverse communities",
+   "search": "digital safety solutions for families and schools",
+   "why": "Educates community partners on Bark's ecosystem approach to online safety protection."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-angel-sense-watch/",
+   "title": "Bark Watch vs AngelSense Watch",
+   "date": "2026-09-30T21:00:37+00:00",
+   "kind": "updated",
+   "published": "2024-11-07T17:59:03+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs AngelSense Watch",
+   "search": "Bark Watch vs AngelSense Watch comparison",
+   "why": "Catches buyers comparing Bark Watch with direct competitor AngelSense before purchase."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-gabb-watch/",
+   "title": "Bark Watch vs Gabb Watch 3",
+   "date": "2026-09-30T20:39:59+00:00",
+   "kind": "updated",
+   "published": "2024-11-06T21:51:12+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids smart watch comparison",
+   "search": "Bark Watch vs Gabb Watch 3",
+   "why": "Captures buyers actively comparing their watch with direct competitor before purchase."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-t-mobile-syncup/",
+   "title": "Bark Watch vs T-Mobile SyncUP 2",
+   "date": "2026-09-30T20:39:57+00:00",
+   "kind": "updated",
+   "published": "2024-11-06T22:03:31+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs T-Mobile SyncUP",
+   "search": "Bark Watch vs T-Mobile SyncUP 2",
+   "why": "Captures buyers comparing their watch with T-Mobile's competitor offering."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-fitbit-ace-lte/",
+   "title": "Bark Watch vs Fitbit Ace LTE",
+   "date": "2026-09-30T20:39:55+00:00",
+   "kind": "updated",
+   "published": "2024-11-06T22:04:51+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "kids smart watch comparison features",
+   "search": "Bark Watch vs Fitbit Ace LTE comparison",
+   "why": "Captures buyers deciding between Bark Watch and Fitbit's competing smartwatch solution."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-lil-tracker/",
+   "title": "Bark Watch vs Lil Tracker Pro",
+   "date": "2026-09-30T20:39:53+00:00",
+   "kind": "updated",
+   "published": "2024-11-06T22:06:40+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs Lil Tracker Pro",
+   "search": "Bark Watch vs Lil Tracker Pro comparison",
+   "why": "Captures buyers actively comparing kids' smartwatches before purchase decision."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-xplora/",
+   "title": "Bark Watch vs Xplora X6Play",
+   "date": "2026-09-30T20:39:51+00:00",
+   "kind": "updated",
+   "published": "2024-11-06T22:07:52+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids smart watch comparison features",
+   "search": "Bark Watch vs Xplora X6Play",
+   "why": "Positions Bark Watch as superior to direct competitor in safety features and capabilities."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-verizon-gizmo-watch/",
+   "title": "Bark Watch vs Verizon Gizmo Watch",
+   "date": "2026-09-30T20:39:49+00:00",
+   "kind": "updated",
+   "published": "2024-11-07T17:52:23+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs Verizon Gizmo Watch",
+   "search": "Bark Watch vs Verizon Gizmo Watch comparison",
+   "why": "Captures buyers actively comparing their smartwatch options against a major competitor."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/family-digital-agreement/",
+   "title": "How to create a family digital agreement",
+   "date": "2026-09-30T13:22:50+00:00",
+   "kind": "updated",
+   "published": "2026-07-31T06:00:16+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "family digital agreement template",
+   "search": "how to create family digital agreement",
+   "why": "Attracts parents researching family tech rules and boundaries."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/is-swerve-ai-safe-for-kids/",
+   "title": "Is Swerve AI safe for kids? App safety guide for parents",
+   "date": "2026-09-22T06:00:07+00:00",
+   "kind": "new",
+   "published": "2026-09-22T06:00:07+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Swerve AI safety for kids",
+   "search": "is Swerve AI safe for kids",
+   "why": "Educates parents about AI app risks and safety strategies to build trust."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/child-feeling-left-out-online/",
+   "title": "\"But everyone has that app!\" What to do when your child feels left out online",
+   "date": "2026-09-21T08:35:14+00:00",
+   "kind": "updated",
+   "published": "2026-09-15T09:02:03+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "managing child social media pressure",
+   "search": "child feels left out social media apps",
+   "why": "Builds trust with parents facing social media access decisions for children."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/introducing-chatgpt-alerts/",
+   "title": "Introducing ChatGPT alerts",
+   "date": "2026-09-18T11:10:32+00:00",
+   "kind": "new",
+   "published": "2026-09-18T11:10:32+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "ChatGPT alerts for family safety",
+   "search": "ChatGPT alerts parental monitoring",
+   "why": "Informs existing users of new AI safety feature protecting kids on ChatGPT."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/is-spotify-safe/",
+   "title": "Is Spotify safe for kids? App safety guide for parents",
+   "date": "2026-09-09T06:00:54+00:00",
+   "kind": "new",
+   "published": "2026-09-09T06:00:54+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Spotify safety guide for kids",
+   "search": "is Spotify safe for kids",
+   "why": "Educates parents on risks and protections, building trust in Qustodio's parental control positioning."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/gaming-alerts-discord/",
+   "title": "Gaming alerts now covers Discord",
+   "date": "2026-09-04T07:00:11+00:00",
+   "kind": "unknown",
+   "published": "2026-09-04T07:00:11+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Discord gaming alerts feature launch",
+   "search": "Discord gaming alerts monitoring",
+   "why": "Informs existing users about Discord protection expansion in their monitoring platform."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/tampering-detected/",
+   "title": "Tampering alert detected: what to do next",
+   "date": "2026-08-27T12:22:05+00:00",
+   "kind": "unknown",
+   "published": "2026-08-27T12:22:05+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "customers",
+   "topic": "how to respond to tampering alerts",
+   "search": "tampering alert parental controls what to do",
+   "why": "Helps existing users manage tampering alerts with age-appropriate guidance and communication strategies."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/features/",
+   "title": "Features",
+   "date": "2026-08-26T14:16:38+00:00",
+   "kind": "updated",
+   "published": "2024-09-30T17:25:01+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Parental control and digital wellbeing features",
+   "search": "parental control app features",
+   "why": "Showcases core capabilities to help parents evaluate against competing solutions."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/parental-control-apps-comparison/",
+   "title": "Qustodio vs. Google Family Link y Apple Screen Time",
+   "date": "2026-08-21T13:06:20+00:00",
+   "kind": "updated",
+   "published": "2021-08-10T10:18:12+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Parental control apps comparison",
+   "search": "Qustodio vs Google Family Link Apple Screen Time",
+   "why": "Positions Qustodio as superior to major competitors to win switching buyers."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/compare-qustodio-and-barkus/",
+   "title": "Qustodio vs. Bark",
+   "date": "2026-08-21T10:48:28+00:00",
+   "kind": "updated",
+   "published": "2023-08-21T10:17:21+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Qustodio vs Bark parental control",
+   "search": "Qustodio vs Bark comparison",
+   "why": "Captures buyers evaluating Qustodio against a direct competitor by highlighting feature advantages."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/research/",
+   "title": "Research Archive | Qustodio",
+   "date": "2026-02-10T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-02-10T00:00:00+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "algorithms apps AI shaping childhood",
+   "search": "how algorithms affect children online",
+   "why": "Establishes thought leadership and builds trust with parents researching child safety."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/",
+   "title": "Parental control and digital wellbeing software",
+   "date": "2025-10-24T09:58:40+00:00",
+   "kind": "updated",
+   "published": "2021-07-09T15:15:23+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Digital parenting tips and resources",
+   "search": "digital parenting tips family safety",
+   "why": "Establishes thought leadership and attracts parents researching digital wellbeing topics."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/app-reviews-archive/",
+   "title": "Bark's App Reviews for Parents",
+   "date": "2023-02-15T14:06:44+00:00",
+   "kind": "updated",
+   "published": "2021-11-29T22:00:13+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "App safety reviews for parents",
+   "search": "are apps safe for kids",
+   "why": "Educates parents on app risks to build trust and establish Bark authority on child safety."
+  }
+ ],
+ "history": [
+  {
+   "week": "2026-W43",
+   "date": "2026-10-20T02:19:58+00:00",
+   "sites": {
+    "Life360": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 98
+    },
+    "Bark": {
+     "new": 4,
+     "updated": 6,
+     "removed": 0,
+     "pages": 2303
+    },
+    "FamiSafe": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Qustodio": {
+     "new": 3,
+     "updated": 3,
+     "removed": 0,
+     "pages": 444
+    },
+    "GeoZilla": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 15
+    },
+    "Find My Kids": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 988
+    },
+    "Google Family Link": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 3
+    }
+   }
+  }
+ ]
+}
