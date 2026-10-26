@@ -2,16 +2,16 @@
  "meta": {
   "title": "Competitor Radar",
   "niche": "Family location sharing, driving safety, and family-safety mobile apps",
-  "updated": "2026-10-20T02:19:58+00:00",
+  "updated": "2026-10-26T13:10:51+00:00",
   "window_days": 30,
   "repo": "nico497/Life360",
-  "first_run": true,
+  "first_run": false,
   "errors": [],
-  "pending": 57,
+  "pending": 20,
   "analysis_stale": false,
   "per_run": 200,
   "tracking_since": "2026-10-20T02:19:58+00:00",
-  "tracking_days": 0
+  "tracking_days": 6
  },
  "types": [
   [
@@ -48,65 +48,65 @@
   ]
  ],
  "analysis": {
-  "summary": "Bark and Qustodio are the only ones publishing. Bark pushes buyers toward its phone and watch; Qustodio builds parent trust with research and guides. Life360 and the other three were quiet.",
+  "summary": "Bark and Qustodio are the only active publishers here. Bark pushes buyers toward its phone and watch, while Qustodio pushes research and parent guides. Life360 published nothing in 30 days.",
   "points": [
    {
-    "text": "Bark updated 27 older pages and added 5 new ones, mostly comparisons and landing pages. It is refreshing pages that push buyers to its phone and watch.",
+    "text": "Bark published 17 new pages and updated 29 in 30 days, so it is the most active rival, while Life360 had zero activity.",
     "names": [
      "Bark"
     ]
    },
    {
-    "text": "Qustodio's 18 learning pages lean on research reports and parent guides, with 9 research pages updated. It is aiming at trust, not sales.",
+    "text": "Bark refreshed many comparison pages against carriers and rival apps, including Qustodio, Gabb and Verizon. It wants parents who are ready to buy.",
     "names": [
-     "Qustodio"
+     "Bark"
     ]
    },
    {
-    "text": "Life360 had 0 new and 0 updated pages in 30 days while Bark and Qustodio kept publishing. Life360 is silent on teen-safety topics they cover.",
+    "text": "Qustodio mostly refreshed old research and guides (14 updates, 4 new pages). It is building trust with parents who are still learning.",
     "names": [
-     "Life360"
+     "Qustodio"
     ]
    }
   ],
   "plays": {
-   "Life360": {
-    "play": "No new or updated pages in 30 days across 98 pages. No visible play this period.",
-    "aimed": "Families evaluating safety apps"
-   },
    "Bark": {
-    "play": "Refreshes comparison pages against phone carriers and kids' watches. Adds a few guides on TikTok, gaming and iOS 27.",
-    "aimed": "Parents ready to buy devices"
+    "play": "Pushes its phone and watch with comparison pages, parent guides, school tools and case stories",
+    "aimed": "Parents ready to buy"
    },
    "Qustodio": {
-    "play": "Publishes and refreshes original research, plus parent guides on AI apps, social media and phone readiness.",
-    "aimed": "Parents researching kids' online safety"
+    "play": "Refreshes its research reports and parent guides on screen time, social media and phone readiness",
+    "aimed": "Parents researching kids' tech"
    },
    "GeoZilla": {
-    "play": "No new or updated pages in 30 days. Small site of 15 pages.",
-    "aimed": "Not clear from data"
+    "play": "No pages published or updated in 30 days; small site of 15 pages",
+    "aimed": "Not clear"
    },
    "Find My Kids": {
-    "play": "No new or updated pages in 30 days across 988 pages.",
-    "aimed": "Not clear from data"
+    "play": "No pages published or updated in 30 days despite 988 pages",
+    "aimed": "Not clear"
    },
    "Google Family Link": {
-    "play": "No new or updated pages in 30 days. Most pages are international copies.",
-    "aimed": "Not clear from data"
+    "play": "No pages published or updated in 30 days; most pages are /intl/ copies",
+    "aimed": "Not clear"
+   },
+   "Life360": {
+    "play": "No new or updated pages in 30 days across 100 pages",
+    "aimed": "Not clear"
    }
   },
   "shared": [
    {
-    "title": "Guides on new apps and platforms",
-    "text": "Bark covers TikTok and iOS 27. Qustodio covers Swerve AI and online impersonation. Both react to news parents worry about, so Life360 could join in.",
+    "title": "Parent guides on kids and social media",
+    "text": "Bark and Qustodio both publish guides on TikTok, teen mental health and online risks. Life360 has no recent pages to meet parents asking these questions.",
     "names": [
      "Bark",
      "Qustodio"
     ]
    },
    {
-    "title": "Teen wellbeing and social media talks",
-    "text": "Bark has teen mental health and gaming bullying pages. Qustodio has loneliness and peer-pressure pages. Both go beyond tracking into family conversations.",
+    "title": "Phone-readiness advice",
+    "text": "Bark wrote about trick-or-treating alone and gradual phone access. Qustodio updated its 'Should I get my child a phone?' guide. Both reach parents before they pick a device.",
     "names": [
      "Bark",
      "Qustodio"
@@ -115,25 +115,19 @@
   ],
   "gaps": [
    {
-    "title": "Location-sharing vs. kids' watches",
-    "text": "Bark has 15 comparison pages, but they are about its own phone and watch. Nobody compares location-sharing apps head to head for parents."
+    "title": "Location sharing vs. monitoring",
+    "text": "Neither active rival covers location sharing in the data. Life360 could own guides on when and how families should share location."
    },
    {
     "title": "Driving safety for teens",
-    "text": "None of the active companies published driving-safety content this period. Life360 could own new-driver and teen-driving guides."
+    "text": "No rival page in the data covers teen driving. Life360 could publish guides, data and checklists on new drivers."
    },
    {
-    "title": "Original family-safety research",
-    "text": "Only Qustodio publishes research (9 pages). Life360 could publish its own data on family location and driving habits."
+    "title": "Family apps comparison pages",
+    "text": "Bark's comparisons focus on phones and parental control apps. None cover location-sharing apps, so Life360 could own that comparison."
    }
   ],
-  "versus": {
-   "Bark": "Bark ships comparison and landing pages aimed at buyers, and updated 27 pages. Life360 published and updated nothing in the same 30 days.",
-   "Qustodio": "Qustodio publishes research and parent guides and updated 15 pages. Life360 showed no new or updated content in the period.",
-   "GeoZilla": "GeoZilla is quiet like Life360, with no activity in 30 days and a much smaller site of 15 pages.",
-   "Find My Kids": "Find My Kids also had no activity in 30 days, though its site of 988 pages is far bigger than Life360's 98.",
-   "Google Family Link": "Google Family Link had no activity either. Its 129 pages are close to Life360's 98, and most are international copies."
-  }
+  "versus": {}
  },
  "sites": [
   {
@@ -141,7 +135,7 @@
    "site": "https://www.life360.com",
    "you": true,
    "n": 0,
-   "site_pages": 98,
+   "site_pages": 100,
    "n_prev": 0,
    "refreshed": 0,
    "mix": {
@@ -172,49 +166,55 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.life360.com/sitemap-en-us.xml",
-   "pages": 98,
-   "undated": 98,
-   "new_urls": 0,
-   "play": "No new or updated pages in 30 days across 98 pages. No visible play this period.",
-   "aimed": "Families evaluating safety apps"
+   "pages": 100,
+   "undated": 100,
+   "new_urls": 2,
+   "play": "No new or updated pages in 30 days across 100 pages",
+   "aimed": "Not clear"
   },
   {
    "name": "Bark",
    "site": "https://www.bark.us",
    "you": false,
-   "n": 32,
-   "site_pages": 3208,
-   "n_prev": 38,
-   "refreshed": 32,
+   "n": 46,
+   "site_pages": 3220,
+   "n_prev": 36,
+   "refreshed": 35,
    "mix": {
-    "compare": 15,
-    "howto": 4,
+    "compare": 10,
+    "howto": 7,
     "list": 0,
-    "research": 0,
-    "case": 0,
+    "research": 4,
+    "case": 4,
     "opinion": 0,
-    "news": 0,
-    "landing": 13
+    "news": 1,
+    "landing": 10
    },
    "stages": {
-    "learning": 5,
+    "learning": 15,
     "comparing": 0,
-    "buying": 27,
-    "customers": 0
+    "buying": 19,
+    "customers": 2
    },
    "topics": [
-    "kids smart watch comparison features",
+    "best phones for kids comparison",
+    "parental control app comparison",
+    "protect child holiday family gatherings",
     "teen mental health conversations with parents",
-    "is tiktok safe for kids",
-    "ios 27 parental controls and safety",
-    "bullying in online video games"
+    "is tiktok safe for kids"
    ],
-   "unclassified": 19,
+   "unclassified": 10,
    "removed": 0,
    "removed_titles": [],
-   "new": 5,
-   "updated": 27,
-   "bulk": [],
+   "new": 17,
+   "updated": 29,
+   "bulk": [
+    {
+     "type": "edit",
+     "day": "2026-09-30",
+     "pages": 21
+    }
+   ],
    "programmatic": [
     {
      "section": "app-overview",
@@ -246,11 +246,11 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.bark.us/sitemap_index.xml",
-   "pages": 3208,
+   "pages": 3215,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Refreshes comparison pages against phone carriers and kids' watches. Adds a few guides on TikTok, gaming and iOS 27.",
-   "aimed": "Parents ready to buy devices"
+   "new_urls": 12,
+   "play": "Pushes its phone and watch with comparison pages, parent guides, school tools and case stories",
+   "aimed": "Parents ready to buy"
   },
   {
    "name": "FamiSafe",
@@ -295,13 +295,13 @@
    "name": "Qustodio",
    "site": "https://www.qustodio.com",
    "you": false,
-   "n": 19,
-   "site_pages": 550,
-   "n_prev": 7,
-   "refreshed": 18,
+   "n": 18,
+   "site_pages": 551,
+   "n_prev": 5,
+   "refreshed": 17,
    "mix": {
     "compare": 0,
-    "howto": 6,
+    "howto": 5,
     "list": 1,
     "research": 9,
     "case": 0,
@@ -310,23 +310,23 @@
     "landing": 1
    },
    "stages": {
-    "learning": 18,
+    "learning": 17,
     "comparing": 0,
     "buying": 0,
     "customers": 1
    },
    "topics": [
-    "managing child social media pressure",
-    "swerve ai safety for kids",
     "family digital agreement template",
     "child phone readiness checklist guide",
-    "screen-free family activities ideas"
+    "screen-free family activities ideas",
+    "online impersonation risks for kids",
+    "social media impact on teen loneliness"
    ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
    "new": 4,
-   "updated": 15,
+   "updated": 14,
    "bulk": [],
    "programmatic": [
     {
@@ -339,11 +339,11 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.qustodio.com/sitemap_index.xml",
-   "pages": 550,
+   "pages": 551,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Publishes and refreshes original research, plus parent guides on AI apps, social media and phone readiness.",
-   "aimed": "Parents researching kids' online safety"
+   "new_urls": 1,
+   "play": "Refreshes its research reports and parent guides on screen time, social media and phone readiness",
+   "aimed": "Parents researching kids' tech"
   },
   {
    "name": "GeoZilla",
@@ -384,8 +384,8 @@
    "pages": 15,
    "undated": 0,
    "new_urls": 0,
-   "play": "No new or updated pages in 30 days. Small site of 15 pages.",
-   "aimed": "Not clear from data"
+   "play": "No pages published or updated in 30 days; small site of 15 pages",
+   "aimed": "Not clear"
   },
   {
    "name": "Find My Kids",
@@ -426,8 +426,8 @@
    "pages": 988,
    "undated": 15,
    "new_urls": 0,
-   "play": "No new or updated pages in 30 days across 988 pages.",
-   "aimed": "Not clear from data"
+   "play": "No pages published or updated in 30 days despite 988 pages",
+   "aimed": "Not clear"
   },
   {
    "name": "Google Family Link",
@@ -474,16 +474,44 @@
    "pages": 129,
    "undated": 129,
    "new_urls": 0,
-   "play": "No new or updated pages in 30 days. Most pages are international copies.",
-   "aimed": "Not clear from data"
+   "play": "No pages published or updated in 30 days; most pages are /intl/ copies",
+   "aimed": "Not clear"
   }
  ],
  "pages": [
   {
    "site": "Bark",
+   "url": "https://www.bark.us/learn/products-monitoring/",
+   "title": "Monitoring Software for K-12 Schools",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "updated",
+   "published": "2026-01-14T21:38:59+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "School monitoring software for student safety",
+   "search": "student monitoring software for schools",
+   "why": "Educate school districts on AI monitoring capabilities and drive demo requests."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/protects/bark-home/",
+   "title": "Bark Home",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "updated",
+   "published": "2026-10-14T19:10:34+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Wi-Fi parental controls device",
+   "search": "parental control device Wi-Fi router",
+   "why": "Converts families ready to buy device with pricing, features, setup, and customer testimonials."
+  },
+  {
+   "site": "Bark",
    "url": "https://www.bark.us/protects/bark-app-android/",
    "title": "Bark App for Android",
-   "date": "2026-10-19T18:31:31+00:00",
+   "date": "2026-10-26T13:10:51+00:00",
    "kind": "updated",
    "published": "2026-10-16T12:54:56+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
@@ -492,6 +520,188 @@
    "topic": "Parental control app for Android",
    "search": "best parental control app Android",
    "why": "Converts Android parents ready to purchase parental monitoring and safety tools."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/what-age-can-kids-trick-or-treat-alone/",
+   "title": "How Do I Know My Kid Is Ready To Trick-or-Treat Without Me?",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T14:27:42+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "kid readiness trick-or-treat alone",
+   "search": "when can kids trick-or-treat alone",
+   "why": "Builds trust with parents managing kids' safety and independence decisions."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/household-income-phone/",
+   "title": "Income Survey — Bark Phone",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-23T19:20:24+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Household income phone survey data",
+   "search": "household income smartphone usage statistics",
+   "why": "Builds authority through original survey data on parental tech adoption patterns."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/household-income-watch/",
+   "title": "Income Survey — Bark Watch",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-23T19:21:22+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "household income survey data",
+   "search": "household income statistics survey",
+   "why": "Builds authority through original research, attracts organic search traffic."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/what-if-online-safety-lessons-actually-worked-inside-one-program-that-does/",
+   "title": "What If Online Safety Lessons Actually Worked? Inside One Program That Does",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:43:01+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Online safety education programs",
+   "search": "online safety lessons for kids work",
+   "why": "Demonstrates effective online safety education through real school programs and case studies."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/from-a-parent-a-testimonial-for-the-bark-phone/",
+   "title": "From a Parent: A Testimonial for the Bark Phone",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:48:48+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "case",
+   "stage": "customers",
+   "topic": "Bark Phone parent testimonial",
+   "search": "Bark Phone parent review testimonial",
+   "why": "Showcases parent satisfaction with Bark Phone to build trust with prospects."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/research-social-media-and-technology-use-in-patients-with-intellectual-and-developmental-disabilities/",
+   "title": "Research: Social Media and Technology Use in Patients with Intellectual and Developmental Disabilities",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:50:17+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Social media technology use developmental disabilities",
+   "search": "social media technology intellectual developmental disabilities",
+   "why": "Establishes expertise in youth safety across specialized populations and markets safety solutions."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/your-policy-may-be-no-phones-but-what-happens-when-foster-kids-are-offered-that-access-from-someone-else/",
+   "title": "Your policy may be no phones - but what happens when foster kids are offered that access from someone else?",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:54:22+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Foster kids phone access safety policy",
+   "search": "foster kids phone access online safety",
+   "why": "Educates parents on managing device access and safety for vulnerable youth populations."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/podcast-foster-kids-werent-allowed-phones-heres-why-that-changed/",
+   "title": "Podcast: Foster Kids Weren’t Allowed Phones. Here’s Why That Changed.",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:55:55+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Foster kids phone safety policies",
+   "search": "foster youth phone access safety",
+   "why": "Demonstrates real-world application of family safety approach to vulnerable populations."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/balancing-safety-and-access-with-the-bark-phone/",
+   "title": "Balancing Safety and Access with the Bark Phone",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:57:55+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Bark Phone safety and access features",
+   "search": "how to balance phone safety and access for kids",
+   "why": "Educates parents and educators on managing kids' phone access while building digital safety habits."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/using-gradual-phone-access-to-teach-critical-skills/",
+   "title": "Using Gradual Phone Access to Teach Critical Skills",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T20:05:11+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Gradual phone access for kids safety",
+   "search": "how to teach kids phone responsibility safely",
+   "why": "Educates parents on phased device access approach, building trust in Bark's philosophy."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/meet-students-where-they-are-back-to-school-briefing-on-emerging-student-safety-trends/",
+   "title": "Meet Students Where They Are: Back to School Briefing on Emerging Student Safety Trends",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:45:51+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "student online safety trends",
+   "search": "back to school student safety trends",
+   "why": "Establishes thought leadership on student safety to attract educators and parents researching online risks."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/introducing-bark-for-schools-advanced-featuring-new-canva-monitoring-and-expanded-visibility-into-student-activity/",
+   "title": "Introducing Bark for Schools Advanced, featuring new Canva monitoring and expanded visibility into student activity",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-21T19:36:40+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Bark for Schools Advanced monitoring features",
+   "search": "Bark for Schools Advanced Canva monitoring",
+   "why": "Announces new school safety monitoring capabilities to existing institutional customers."
+  },
+  {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/blog/what-is-maxxing/",
+   "title": "What is “maxxing” online and why is everyone doing it?",
+   "date": "2026-10-26T13:10:51+00:00",
+   "kind": "new",
+   "published": "2026-10-20T11:45:14+00:00",
+   "first_seen": "2026-10-26T13:10:51+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Maxxing trends teenage slang",
+   "search": "what is maxxing meaning",
+   "why": "Educates parents on emerging teen trends to help monitor online safety."
   },
   {
    "site": "Bark",
@@ -576,20 +786,6 @@
    "topic": "ABC model digital safety wellbeing",
    "search": "how to keep kids safe digital",
    "why": "Establishes framework for parents learning digital safety basics and Qustodio's role."
-  },
-  {
-   "site": "Bark",
-   "url": "https://www.bark.us/protects/bark-home/",
-   "title": "Bark Home",
-   "date": "2026-10-14T19:10:34+00:00",
-   "kind": "new",
-   "published": "2026-10-14T19:10:34+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Wi-Fi parental controls device",
-   "search": "parental control device Wi-Fi router",
-   "why": "Converts families ready to buy device with pricing, features, setup, and customer testimonials."
   },
   {
    "site": "Bark",
@@ -988,7 +1184,7 @@
    "url": "https://www.bark.us/learn/informational-tech/",
    "title": "Informational Tech",
    "date": "2026-09-30T22:06:29+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2025-07-15T20:53:33+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "landing",
@@ -1002,7 +1198,7 @@
    "url": "https://www.bark.us/learn/barks-connected-communities/",
    "title": "Bark’s Connected Communities",
    "date": "2026-09-30T22:05:00+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2025-04-24T18:44:57+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "landing",
@@ -1013,24 +1209,10 @@
   },
   {
    "site": "Bark",
-   "url": "https://www.bark.us/learn/products-monitoring/",
-   "title": "Monitoring Software for K-12 Schools",
-   "date": "2026-09-30T22:03:24+00:00",
-   "kind": "updated",
-   "published": "2026-01-14T21:38:59+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "School monitoring software for student safety",
-   "search": "student monitoring software for schools",
-   "why": "Educate school districts on AI monitoring capabilities and drive demo requests."
-  },
-  {
-   "site": "Bark",
    "url": "https://www.bark.us/learn/disabilities/",
    "title": "Empowering Safer Digital Independence with Bark",
    "date": "2026-09-30T22:01:56+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2025-09-04T17:25:22+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "landing",
@@ -1044,7 +1226,7 @@
    "url": "https://www.bark.us/learn/solutions/",
    "title": "Bark Community Partners",
    "date": "2026-09-30T22:00:53+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2023-05-31T20:07:02+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "landing",
@@ -1058,7 +1240,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-angel-sense-watch/",
    "title": "Bark Watch vs AngelSense Watch",
    "date": "2026-09-30T21:00:37+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-07T17:59:03+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1072,7 +1254,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-gabb-watch/",
    "title": "Bark Watch vs Gabb Watch 3",
    "date": "2026-09-30T20:39:59+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-06T21:51:12+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1086,7 +1268,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-t-mobile-syncup/",
    "title": "Bark Watch vs T-Mobile SyncUP 2",
    "date": "2026-09-30T20:39:57+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-06T22:03:31+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1100,7 +1282,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-fitbit-ace-lte/",
    "title": "Bark Watch vs Fitbit Ace LTE",
    "date": "2026-09-30T20:39:55+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-06T22:04:51+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1114,7 +1296,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-lil-tracker/",
    "title": "Bark Watch vs Lil Tracker Pro",
    "date": "2026-09-30T20:39:53+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-06T22:06:40+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1128,7 +1310,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-xplora/",
    "title": "Bark Watch vs Xplora X6Play",
    "date": "2026-09-30T20:39:51+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-06T22:07:52+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1142,7 +1324,7 @@
    "url": "https://www.bark.us/learn/bark-watch-vs-verizon-gizmo-watch/",
    "title": "Bark Watch vs Verizon Gizmo Watch",
    "date": "2026-09-30T20:39:49+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-11-07T17:52:23+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "compare",
@@ -1150,6 +1332,132 @@
    "topic": "Bark Watch vs Verizon Gizmo Watch",
    "search": "Bark Watch vs Verizon Gizmo Watch comparison",
    "why": "Captures buyers actively comparing their smartwatch options against a major competitor."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-google-pixel-watch/",
+   "title": "Bark Watch vs Google Pixel Watch 4",
+   "date": "2026-09-30T20:39:47+00:00",
+   "kind": "bulk",
+   "published": "2024-11-07T17:55:36+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs Google Pixel Watch",
+   "search": "Bark Watch vs Google Pixel Watch 4",
+   "why": "Positions Bark Watch as superior choice for parents evaluating kids' smartwatch safety features."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-little-tikes-watch/",
+   "title": "Bark Watch vs Little Tikes Tobi Robot",
+   "date": "2026-09-30T20:39:43+00:00",
+   "kind": "bulk",
+   "published": "2024-11-07T21:45:45+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids smart watch comparison",
+   "search": "Bark Watch vs Little Tikes Tobi Robot",
+   "why": "Converts buyers comparing Bark to a direct competitor by showcasing feature advantages."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-garmin-bounce/",
+   "title": "Bark Watch vs Garmin Bounce",
+   "date": "2026-09-30T20:39:41+00:00",
+   "kind": "bulk",
+   "published": "2024-11-07T21:46:42+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs Garmin Bounce",
+   "search": "Bark Watch vs Garmin Bounce comparison",
+   "why": "Captures buyers actively comparing with a main competitor before purchase decision."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-apple-watch/",
+   "title": "Bark Watch vs Apple Watch SE",
+   "date": "2026-09-30T20:39:38+00:00",
+   "kind": "bulk",
+   "published": "2024-11-07T21:47:36+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Bark Watch vs Apple Watch safety",
+   "search": "Bark Watch vs Apple Watch SE",
+   "why": "Converts buyers choosing between kids' smartwatches by highlighting Bark's superior safety monitoring features."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-ticktalk/",
+   "title": "Bark Watch vs TickTalk 5",
+   "date": "2026-09-30T20:39:36+00:00",
+   "kind": "bulk",
+   "published": "2024-11-07T21:48:31+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids smart watch comparison TickTalk",
+   "search": "Bark Watch vs TickTalk 5",
+   "why": "Directly targets buyers comparing Bark Watch with TickTalk competitor."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/bark-watch-vs-troomi-watch/",
+   "title": "Bark Watch vs Troomi XGO3",
+   "date": "2026-09-30T20:39:28+00:00",
+   "kind": "bulk",
+   "published": "2024-12-03T17:30:04+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "kids smart watch features comparison",
+   "search": "Bark Watch vs Troomi XGO3",
+   "why": "Captures buyers comparing Bark Watch directly with a competing kids' watch brand."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bark-watch-vs-cosmo/",
+   "title": "Bark Watch vs Cosmo JrTrack 5",
+   "date": "2026-09-30T20:38:40+00:00",
+   "kind": "bulk",
+   "published": "2024-11-06T21:58:28+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Kids smartwatch features comparison",
+   "search": "Bark Watch vs Cosmo JrTrack 5",
+   "why": "Captures parents comparing Bark Watch directly with competitor before purchase decision."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/protect-child-holiday-family-gatherings/",
+   "title": "How to Protect Your Child During Holiday Family Gatherings",
+   "date": "2026-09-30T18:44:35+00:00",
+   "kind": "new",
+   "published": "2026-09-30T18:44:35+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "protect child holiday family gatherings",
+   "search": "how to protect child holiday gatherings",
+   "why": "Educates parents on child safety during family events, builds trust and brand authority."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/which-bark-product-is-right-for-my-kid/",
+   "title": "How Do I Know Which Bark Product is Right for My Kid?",
+   "date": "2026-09-30T17:25:12+00:00",
+   "kind": "bulk",
+   "published": "2025-06-03T17:21:53+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "comparing",
+   "topic": "Bark product comparison for kids",
+   "search": "which Bark product right for my kid",
+   "why": "Helps parents choose between multiple Bark products based on child age and needs."
   },
   {
    "site": "Qustodio",
@@ -1166,6 +1474,132 @@
    "why": "Attracts parents researching family tech rules and boundaries."
   },
   {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/bark-vs-qustodio/",
+   "title": "Bark vs Qustodio: Which Parental Control App Is Better?",
+   "date": "2026-09-28T20:46:59+00:00",
+   "kind": "updated",
+   "published": "2026-06-09T20:58:21+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Parental control app comparison",
+   "search": "Bark vs Qustodio parental control",
+   "why": "Captures buyers comparing Bark against direct competitors in parental control space."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/best-phones-kids/",
+   "title": "Best Phones for Kids in 2026: Bark, Gabb, Pinwheel, and Troomi",
+   "date": "2026-09-28T18:29:17+00:00",
+   "kind": "updated",
+   "published": "2026-06-02T15:32:40+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Best phones for kids comparison",
+   "search": "best phones for kids 2026",
+   "why": "Captures buyers comparing kid-safe phone options while promoting Bark's own products."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/android/",
+   "title": "Installing Bark for Kids on Android",
+   "date": "2026-09-24T20:14:32+00:00",
+   "kind": "updated",
+   "published": "2021-09-14T15:44:21+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "customers",
+   "topic": "Install Bark Kids app on Android",
+   "search": "how to install Bark Kids Android",
+   "why": "Helps existing customers set up the app on their child's device."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/safer-music-devies/",
+   "title": "Safer Music Devices for Kids: A Roundup of Our Top Choices",
+   "date": "2026-09-24T13:36:56+00:00",
+   "kind": "new",
+   "published": "2026-09-24T13:36:56+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Safer music devices for kids",
+   "search": "best music devices kids",
+   "why": "Educates parents on safe music options, positioning Bark as family safety expert."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/smartwatches-for-kids/",
+   "title": "Kid’s Smartwatches: Bark’s Top Picks for Parents",
+   "date": "2026-09-23T22:31:15+00:00",
+   "kind": "updated",
+   "published": "2021-10-25T18:42:29+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Kids smartwatches buying guide",
+   "search": "best smartwatches for kids",
+   "why": "Educates parents on smartwatch benefits and features to help early research."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/answers/",
+   "title": "Q&As Archive",
+   "date": "2026-09-23T15:14:51+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Family safety kids phones watches",
+   "search": "best GPS watches kids safety",
+   "why": "Establishes authority on kid safety through curated Q&A resource for researching parents."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/answers/how-accurate-are-gps-watches-for-kids/",
+   "title": "How accurate are GPS watches for kids?",
+   "date": "2026-09-23T15:14:51+00:00",
+   "kind": "new",
+   "published": "2026-09-23T15:14:51+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "GPS watch accuracy for kids",
+   "search": "how accurate are GPS watches for kids",
+   "why": "Educates parents researching tracking tech before buying kids' location devices."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/tech-for-kids-early-independence/",
+   "title": "How Tech Can Help You Navigate Your Kid's Early Independence",
+   "date": "2026-09-22T19:52:14+00:00",
+   "kind": "new",
+   "published": "2026-09-22T19:52:14+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Kids independence with technology",
+   "search": "how to let kids have more independence safely",
+   "why": "Educates parents on balancing child autonomy with safety monitoring tech."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/guides/internet-verizon/",
+   "title": "How To Set Up Verizon Internet Parental Controls",
+   "date": "2026-09-22T19:23:05+00:00",
+   "kind": "updated",
+   "published": "2022-04-28T20:02:14+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Verizon internet parental controls setup",
+   "search": "how to set up Verizon parental controls",
+   "why": "Establishes expertise and captures parents exploring Verizon's built-in controls before switching to Bark."
+  },
+  {
    "site": "Qustodio",
    "url": "https://www.qustodio.com/en/blog/is-swerve-ai-safe-for-kids/",
    "title": "Is Swerve AI safe for kids? App safety guide for parents",
@@ -1178,6 +1612,20 @@
    "topic": "Swerve AI safety for kids",
    "search": "is Swerve AI safe for kids",
    "why": "Educates parents about AI app risks and safety strategies to build trust."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/how-to-know-my-child-is-being-groomed/",
+   "title": "How Do I Know My Child Is Being Groomed Online?",
+   "date": "2026-09-21T18:33:42+00:00",
+   "kind": "updated",
+   "published": "2026-09-18T12:49:21+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Child online grooming warning signs",
+   "search": "how to know if child being groomed online",
+   "why": "Educates parents on protecting kids from online predators, builds trust in Bark's safety expertise."
   },
   {
    "site": "Qustodio",
@@ -1208,11 +1656,123 @@
    "why": "Informs existing users of new AI safety feature protecting kids on ChatGPT."
   },
   {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/5-questions-to-consider-as-your-child-builds-digital-independence/",
+   "title": "5 Questions to Consider as Your Child Builds Digital Independence",
+   "date": "2026-09-17T18:08:26+00:00",
+   "kind": "new",
+   "published": "2026-09-17T18:08:26+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "child digital independence safety",
+   "search": "help child build digital independence safely",
+   "why": "Educates parents on managing digital safety as kids gain independence online."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/after-the-assembly/",
+   "title": "What Happens After the Assembly",
+   "date": "2026-09-17T17:45:24+00:00",
+   "kind": "new",
+   "published": "2026-09-17T17:45:24+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Digital citizenship education follow-up",
+   "search": "making digital citizenship stick after school assembly",
+   "why": "Educates school districts on sustaining online safety awareness beyond one-time events."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/what-happens-after-assembly/",
+   "title": "What Happens After the Assembly",
+   "date": "2026-09-17T17:29:55+00:00",
+   "kind": "new",
+   "published": "2026-09-17T17:29:55+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Digital citizenship education ongoing conversation",
+   "search": "digital citizenship education school districts",
+   "why": "Educates school districts on sustaining digital citizenship beyond one-time assemblies."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/kids-online-safety-global/",
+   "title": "Kids' Online Safety Is a Global Problem: What Parents in the US and UK Are Seeing",
+   "date": "2026-09-17T17:21:13+00:00",
+   "kind": "updated",
+   "published": "2026-07-13T21:07:18+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Kids online safety global research",
+   "search": "kids online safety global UK US",
+   "why": "Establishes Bark as research authority on kids' digital risks to build buyer trust."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/wi-clts/",
+   "title": "Wisconsin Medicaid and IDD",
+   "date": "2026-09-16T19:26:01+00:00",
+   "kind": "updated",
+   "published": "2026-03-11T15:55:16+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Bark devices for disabilities Wisconsin CLTS",
+   "search": "Bark Phone Watch Wisconsin CLTS waiver IDD",
+   "why": "Drives device purchases for families with disabled youth eligible for state waiver funding."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/wi-iris/",
+   "title": "Wisconsin IRIS Medicaid and IDD",
+   "date": "2026-09-16T19:22:31+00:00",
+   "kind": "updated",
+   "published": "2026-09-01T19:54:03+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Wisconsin IRIS Medicaid disability support",
+   "search": "IRIS Medicaid waiver Wisconsin devices disabilities",
+   "why": "Converts families of disabled individuals seeking Medicaid-funded assistive technology in Wisconsin."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/north-carolina-programs/",
+   "title": "North Carolina Medicaid and I/DD",
+   "date": "2026-09-16T19:13:58+00:00",
+   "kind": "updated",
+   "published": "2026-04-08T16:04:48+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "North Carolina Medicaid assistive technology",
+   "search": "Bark devices I/DD Medicaid North Carolina Innovation waiver",
+   "why": "Converts families with disabled children eligible for NC Medicaid waivers to Bark device orders."
+  },
+  {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/behavioral-health/",
+   "title": "Disabilities & Behavioral Health",
+   "date": "2026-09-16T16:53:13+00:00",
+   "kind": "updated",
+   "published": "2025-01-06T22:02:20+00:00",
+   "first_seen": "2026-10-20T02:19:58+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Digital safety for behavioral health patients",
+   "search": "phone for behavioral health treatment teens",
+   "why": "Targets healthcare providers and institutions managing patient device access during recovery and behavioral treatment."
+  },
+  {
    "site": "Qustodio",
    "url": "https://www.qustodio.com/en/blog/is-spotify-safe/",
    "title": "Is Spotify safe for kids? App safety guide for parents",
    "date": "2026-09-09T06:00:54+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "published": "2026-09-09T06:00:54+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "type": "howto",
@@ -1234,62 +1794,6 @@
    "topic": "Discord gaming alerts feature launch",
    "search": "Discord gaming alerts monitoring",
    "why": "Informs existing users about Discord protection expansion in their monitoring platform."
-  },
-  {
-   "site": "Qustodio",
-   "url": "https://www.qustodio.com/en/blog/tampering-detected/",
-   "title": "Tampering alert detected: what to do next",
-   "date": "2026-08-27T12:22:05+00:00",
-   "kind": "unknown",
-   "published": "2026-08-27T12:22:05+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "howto",
-   "stage": "customers",
-   "topic": "how to respond to tampering alerts",
-   "search": "tampering alert parental controls what to do",
-   "why": "Helps existing users manage tampering alerts with age-appropriate guidance and communication strategies."
-  },
-  {
-   "site": "Qustodio",
-   "url": "https://www.qustodio.com/en/features/",
-   "title": "Features",
-   "date": "2026-08-26T14:16:38+00:00",
-   "kind": "updated",
-   "published": "2024-09-30T17:25:01+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Parental control and digital wellbeing features",
-   "search": "parental control app features",
-   "why": "Showcases core capabilities to help parents evaluate against competing solutions."
-  },
-  {
-   "site": "Qustodio",
-   "url": "https://www.qustodio.com/en/parental-control-apps-comparison/",
-   "title": "Qustodio vs. Google Family Link y Apple Screen Time",
-   "date": "2026-08-21T13:06:20+00:00",
-   "kind": "updated",
-   "published": "2021-08-10T10:18:12+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "compare",
-   "stage": "buying",
-   "topic": "Parental control apps comparison",
-   "search": "Qustodio vs Google Family Link Apple Screen Time",
-   "why": "Positions Qustodio as superior to major competitors to win switching buyers."
-  },
-  {
-   "site": "Qustodio",
-   "url": "https://www.qustodio.com/en/compare-qustodio-and-barkus/",
-   "title": "Qustodio vs. Bark",
-   "date": "2026-08-21T10:48:28+00:00",
-   "kind": "updated",
-   "published": "2023-08-21T10:17:21+00:00",
-   "first_seen": "2026-10-20T02:19:58+00:00",
-   "type": "compare",
-   "stage": "buying",
-   "topic": "Qustodio vs Bark parental control",
-   "search": "Qustodio vs Bark comparison",
-   "why": "Captures buyers evaluating Qustodio against a direct competitor by highlighting feature advantages."
   },
   {
    "site": "Qustodio",
@@ -1362,6 +1866,54 @@
      "updated": 3,
      "removed": 0,
      "pages": 444
+    },
+    "GeoZilla": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 15
+    },
+    "Find My Kids": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 988
+    },
+    "Google Family Link": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 3
+    }
+   }
+  },
+  {
+   "week": "2026-W44",
+   "date": "2026-10-26T13:10:51+00:00",
+   "sites": {
+    "Life360": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 100
+    },
+    "Bark": {
+     "new": 13,
+     "updated": 16,
+     "removed": 0,
+     "pages": 2315
+    },
+    "FamiSafe": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Qustodio": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 445
     },
     "GeoZilla": {
      "new": 0,
