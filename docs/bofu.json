@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Family location sharing, driving safety, and family-safety mobile apps",
   "you": "Life360",
-  "generated": "2026-10-26T13:13:24+00:00",
+  "generated": "2026-11-02T16:08:38+00:00",
   "state_updated": "2026-10-20T02:19:58+00:00",
   "repo": "nico497/Life360"
  },
@@ -40,15 +40,15 @@
  "sites": [
   {
    "name": "Life360",
-   "tracked": 100,
-   "considered": 99,
+   "tracked": 101,
+   "considered": 100,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Bark",
-   "tracked": 3220,
-   "considered": 2247,
+   "tracked": 3226,
+   "considered": 2251,
    "own_pricing": "https://www.bark.us/pricing/",
    "hubs": []
   },
@@ -77,8 +77,8 @@
   },
   {
    "name": "Find My Kids",
-   "tracked": 988,
-   "considered": 988,
+   "tracked": 992,
+   "considered": 992,
    "own_pricing": null,
    "hubs": [
     "https://findmykids.org/lt/about/reviews",
@@ -115,7 +115,7 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 69,
-  "templated pages": 1137
+  "templated pages": 1139
  },
  "pages": [
   {
