@@ -199,6 +199,22 @@ table.nums tr.you td.h { background: color-mix(in srgb, var(--rival) calc(var(--
 .ctypes button:hover { border-color: var(--navy); }
 .cp { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 20px; }
 .cp > div { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 24px; box-shadow: var(--shadow); }
+.cp ul.pts { list-style: disc; padding-left: 20px; color: var(--ink-2); } .cp ul.pts li { padding: 4px 0; }
+.cp .ph { margin: 0 0 6px; color: var(--navy); font-weight: 700; }
+.cp .cn .ph + ul.pts { margin-bottom: 16px; }
+.cp .swcard { border-top: 4px solid var(--you); }
+.cp .swcard.w { border-top-color: var(--navy); }
+.swcard h3 { margin: 0 0 4px; color: var(--navy); font: 800 24px/1.2 var(--sans); font-stretch: 106%; }
+.swcard .swsub { margin: 0 0 8px; color: var(--ink-3); font-size: 14px; }
+.swrow { padding: 14px 0; border-top: 1px solid var(--line); }
+.swrow:first-of-type { border-top: 0; }
+.swrow p { margin: 0 0 9px; color: var(--ink); font-size: 15px; font-weight: 600; line-height: 1.35; }
+.swbar { display: flex; align-items: center; gap: 12px; }
+.swtrack { flex: 1; height: 8px; border-radius: 999px; background: var(--mark); overflow: hidden; }
+.swfill { display: block; height: 100%; border-radius: 999px; background: var(--you); }
+.swcard.w .swfill { background: var(--navy); }
+.swpct { min-width: 44px; text-align: right; color: var(--navy); font: 800 17px/1 var(--sans); font-variant-numeric: tabular-nums; }
+.swn { min-width: 92px; color: var(--ink-3); font-size: 13px; }
 .cp .cn { background: var(--panel); border-color: transparent; }
 .cp .cn h3 { margin: 0 0 12px; color: var(--navy); font: 700 20px/1.25 var(--sans); font-stretch: 106%; }
 .cp ul { margin: 0; padding: 0; list-style: none; font-size: 15px; } .cp li { padding: 5px 0; overflow-wrap: anywhere; } .cp .ty { font-size: 13px; color: var(--ink-3); }
@@ -269,8 +285,6 @@ ul.how { margin: 0; padding-left: 20px; color: var(--ink-2); max-width: 62em; } 
     <nav class="nav" aria-label="Tools"><svg width="24" height="24" viewBox="0 0 32 32" aria-hidden="true"><rect x="4" y="17" width="7" height="11" rx="2" fill="#3a547a"/><rect x="12.5" y="10" width="7" height="18" rx="2" fill="#3a547a"/><rect x="21" y="3" width="7" height="25" rx="2" fill="#0aa8bf"/></svg><a href="./">Competitor Radar</a><a href="funnel.html">Funnel Gap Radar</a><a href="headtohead.html" aria-current="page">Head-to-Head Radar</a></nav>
     <span class="stamp">OpenAI API (gpt-4o) · Oct 2026</span>
   </header>
-  <p class="mockbar"><b>Real data, via the OpenAI API.</b> All 60 forced-pick answers (6 rivals × 2 name orders × 5 runs each) and all 12 open-comparison answers came from the OpenAI API (gpt-4o) directly — no browsing, so none of the reasoning below carries citations. It's the model's general knowledge, not a sourced comparison. Life360 wins or near-sweeps every matchup here, almost always on the model's segmenting the category by use case (location safety vs. digital/screen-time monitoring) rather than declaring Life360 objectively better.</p>
-
   <section id="headline"></section>
 
   <section class="sec">
@@ -377,6 +391,55 @@ const H2H = {
 };
 const RIV = Object.keys(H2H);
 
+// Plain-language read of each matchup's open-comparison answers (gpt-4o, one run per name order).
+const SUM = {
+  Bark: {
+    why: ["The model treats them as different categories: Life360 for physical location and driving, Bark for monitoring online activity.", "Both answers suggest families could use the two together.", "Life360 is picked 9 of 10 times, losing only once, when Bark is named first."],
+    rival: ["Monitors texts, emails and social media", "Flags cyberbullying, self-harm signals and inappropriate content"],
+    you: ["Real-time location tracking", "Driving safety"],
+  },
+  FamiSafe: {
+    why: ["Different focus: Life360 for location and driving, FamiSafe for screen time and parental controls.", "The model notes FamiSafe is harder to set up, and both charge for advanced features.", "Life360 is picked 10 of 10 times, whichever name comes first."],
+    rival: ["Screen time management and app blocking", "Content monitoring, plus its own location tracking"],
+    you: ["Real-time location sharing and geofencing", "Driving reports"],
+  },
+  Qustodio: {
+    why: ["Different focus: Life360 for location and driving, Qustodio for screen time and web filtering.", "The model sees Qustodio as better for younger children, and Life360 as better for families with teen drivers.", "Life360 is picked 9 of 10 times, losing only once, when Qustodio is named first."],
+    rival: ["Screen time limits and web filtering", "Monitors social networks, texts and calls", "Better fit for younger children"],
+    you: ["Family location sharing", "Driving reports, good for teen drivers"],
+  },
+  GeoZilla: {
+    why: ["The closest like-for-like match: both are mainly location-tracking apps.", "GeoZilla wins on battery life, free features and location history. Life360 wins on driving safety and a bigger, more established user base.", "Life360 is still picked 10 of 10 times, probably because the question is about families with drivers."],
+    rival: ["Better battery efficiency", "More generous free tier", "Detailed location history"],
+    you: ["Crash detection and driving reports", "Roadside assistance on higher tiers", "Larger user base, with more frequent updates and support"],
+  },
+  "Find My Kids": {
+    why: ["Find My Kids is built for young children. Life360 covers the whole family, including teens and adults.", "The model calls Find My Kids the narrower tool, with fewer extra features.", "Life360 is picked 10 of 10 times, whichever name comes first."],
+    rival: ["Audio monitoring", "Works with GPS smartwatches", "Built specifically for younger children"],
+    you: ["Covers the whole family, including teens and adults", "Driving safety and broader connectivity"],
+  },
+  "Google Family Link": {
+    why: ["The closest matchup, though Life360 still leads: picked 8 of 10 times in both name orders.", "They solve different problems: Family Link manages devices and screen time, Life360 tracks location and driving.", "Family Link's edge is that it's free and works smoothly with Google services."],
+    rival: ["Free, with no premium subscription", "Works smoothly with Google services on Android and Chromebooks", "App approval and screen time limits"],
+    you: ["Detailed location tracking", "Driving safety"],
+  },
+};
+
+// Consistent strengths/weaknesses: how many of the 6 matchups bring each point up.
+const SWTAB = "__sw";
+const SW = {
+  strengths: [
+    ["Driving safety: crash detection and driving reports", ["Bark", "FamiSafe", "Qustodio", "GeoZilla", "Find My Kids", "Google Family Link"]],
+    ["Real-time location sharing", ["Bark", "FamiSafe", "Qustodio", "Google Family Link"]],
+    ["Covers the whole family, including teens and adults", ["Qustodio", "Find My Kids"]],
+  ],
+  weaknesses: [
+    ["Rivals cover screen time and online activity; Life360 focuses on location", ["Bark", "FamiSafe", "Qustodio", "Google Family Link"]],
+    ["Rivals offer more for free", ["GeoZilla", "Google Family Link"]],
+    ["Rivals seen as a better fit for younger children", ["Qustodio", "Find My Kids"]],
+  ],
+};
+
 // Claims worth checking, pulled from the open comparisons (no citations — API route, no browsing).
 const FACTS = [
   ["Life360 feature set", "Consistently described as real-time location sharing, geofencing/place alerts, driving safety (crash detection, driving reports), SOS and (on higher tiers) roadside assistance", "Life360"],
@@ -422,21 +485,36 @@ function renderBoard() {
   });
 }
 
-let CS = "Google Family Link";
+let CS = SWTAB;
 function renderComp() {
-  $("#ctabs").innerHTML = `<span class="tabslabel">${YOU} vs.</span>` + RIV.map((r) => `<button type="button" data-r="${esc(r)}" aria-pressed="${r === CS}">${esc(r)}</button>`).join("");
+  $("#ctabs").innerHTML = `<button type="button" data-r="${SWTAB}" aria-pressed="${CS === SWTAB}">Strengths &amp; weaknesses</button><span class="tabslabel" aria-hidden="true">|</span><span class="tabslabel">${YOU} vs.</span>` + RIV.map((r) => `<button type="button" data-r="${esc(r)}" aria-pressed="${r === CS}">${esc(r)}</button>`).join("");
   $("#ctabs").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { CS = b.dataset.r; renderComp(); }));
-  const m = H2H[CS], t = total(CS);
+  if (CS === SWTAB) return renderSW();
+  const m = H2H[CS], t = total(CS), x = SUM[CS];
   const vtxt = t.blvd > t.rival ? `The model picks ${YOU} in ${t.blvd} of 10 forced-pick runs.` : t.blvd < t.rival ? `The model picks ${esc(CS)} in ${t.rival} of 10 forced-pick runs.` : `Dead even across 10 runs.`;
+  const pts = (a) => `<ul class="pts">${a.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>`;
   $("#cpanel").innerHTML = `<div class="cp"><div>
       <p class="verdict">${vtxt}</p>
-      <div class="ord"><span>${YOU} named first: <b>${m.you.blvd} of 5</b> for ${YOU}</span><span>${esc(CS)} named first: <b>${m.them.blvd} of 5</b> for ${YOU}</span></div>
-      <p class="dim" style="margin:0 0 6px;font-weight:700;color:var(--navy)">Open comparison (single run, not repeated)</p>
-      <ul class="how">${m.openPoints.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
-    </div><div class="cn"><h3>What the open comparison cited</h3>
-      <p class="insight">${esc(m.openCites)}</p>
-      <p class="insight">This is from one run per order (2 total), not the 10 forced-pick runs above — treat it as a data point, not a trend.</p>
+      <div class="ord"><span>When ${YOU} is named first: ${YOU} picked <b>${m.you.blvd} of 5</b> times</span><span>When ${esc(CS)} is named first: ${YOU} picked <b>${m.them.blvd} of 5</b> times</span></div>
+      <p class="ph">Why the model picked this way</p>
+      ${pts(x.why)}
+    </div><div class="cn"><h3>What each side is known for</h3>
+      <p class="ph">${esc(CS)}</p>${pts(x.rival)}
+      <p class="ph">${YOU}</p>${pts(x.you)}
     </div></div>`;
+}
+
+function renderSW() {
+  const row = ([t, rs]) => { const pc = Math.round((rs.length / RIV.length) * 100); return `<div class="swrow"><p>${esc(t)}</p><div class="swbar"><span class="swtrack"><span class="swfill" style="width:${pc}%"></span></span><span class="swpct">${pc}%</span><span class="swn">${rs.length} of ${RIV.length} matchups</span></div></div>`; };
+  const byCount = (a, b) => b[1].length - a[1].length;
+  $("#cpanel").innerHTML = `<div class="cp"><div class="swcard">
+      <h3>Consistent strengths</h3><p class="swsub">What the model keeps crediting ${YOU} for</p>
+      ${[...SW.strengths].sort(byCount).map(row).join("")}
+    </div><div class="swcard w">
+      <h3>Consistent weaknesses</h3><p class="swsub">What the model says rivals do better</p>
+      ${[...SW.weaknesses].sort(byCount).map(row).join("")}
+    </div></div>
+    <p class="note">Percentage = how many of the 6 matchups bring the point up. Based on one open answer per name order from gpt-4o with no web browsing, so treat it as a guide, not verified fact.</p>`;
 }
 
 function renderFacts() {
