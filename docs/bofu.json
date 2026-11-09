@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Family location sharing, driving safety, and family-safety mobile apps",
   "you": "Life360",
-  "generated": "2026-11-02T16:08:38+00:00",
+  "generated": "2026-11-09T16:37:17+00:00",
   "state_updated": "2026-10-20T02:19:58+00:00",
   "repo": "nico497/Life360"
  },
@@ -40,15 +40,15 @@
  "sites": [
   {
    "name": "Life360",
-   "tracked": 101,
-   "considered": 100,
+   "tracked": 105,
+   "considered": 3,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Bark",
-   "tracked": 3226,
-   "considered": 2251,
+   "tracked": 3377,
+   "considered": 2260,
    "own_pricing": "https://www.bark.us/pricing/",
    "hubs": []
   },
@@ -61,8 +61,8 @@
   },
   {
    "name": "Qustodio",
-   "tracked": 551,
-   "considered": 445,
+   "tracked": 553,
+   "considered": 446,
    "own_pricing": null,
    "hubs": []
   },
@@ -115,7 +115,7 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 69,
-  "templated pages": 1139
+  "templated pages": 1383
  },
  "pages": [
   {
