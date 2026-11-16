@@ -5,7 +5,7 @@
    "url": "https://www.life360.com/learn",
    "title": "Learn",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -24,14 +24,15 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "life360.com/reset-password": {
    "site": "Life360",
    "url": "https://www.life360.com/reset-password",
    "title": "Reset password",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -44,7 +45,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-mate",
    "title": "Black mate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -57,7 +58,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-mate-2-pack",
    "title": "Black mate 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -70,7 +71,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-mate-4-pack",
    "title": "Black mate 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -83,7 +84,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-pro",
    "title": "Black pro",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -96,7 +97,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-pro-4-pack",
    "title": "Black pro 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -109,7 +110,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-slim",
    "title": "Black slim",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -122,7 +123,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-slim-2-pack",
    "title": "Black slim 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -135,7 +136,7 @@
    "url": "https://www.life360.com/tile-trackers/product/black-sticker",
    "title": "Black sticker",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -148,7 +149,7 @@
    "url": "https://www.life360.com/tile-trackers/product/blush-white-performance-pack",
    "title": "Blush white performance pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -161,7 +162,7 @@
    "url": "https://www.life360.com/tile-trackers/product/gps-pet-tracker-black",
    "title": "Gps pet tracker black",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -174,7 +175,7 @@
    "url": "https://www.life360.com/tile-trackers/product/gps-pet-tracker-navy-blaze",
    "title": "Gps pet tracker navy blaze",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -187,7 +188,7 @@
    "url": "https://www.life360.com/tile-trackers/product/gps-pet-tracker-pink-punch",
    "title": "Gps pet tracker pink punch",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -200,7 +201,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-2-pack-navy-blaze-black",
    "title": "Mate 2 pack navy blaze black",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -213,7 +214,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-2-pack-pink-punch-black",
    "title": "Mate 2 pack pink punch black",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -226,7 +227,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-2-pack-pink-punch-white",
    "title": "Mate 2 pack pink punch white",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -239,7 +240,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-4-pack",
    "title": "Mate 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -252,7 +253,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-4-pack-multi",
    "title": "Mate 4 pack multi",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -265,7 +266,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-4-pack-navy-blaze-pink-punch-black-white",
    "title": "Mate 4 pack navy blaze pink punch black white",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -278,7 +279,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-aqua-lemon",
    "title": "Mate aqua lemon",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -291,7 +292,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-essentials-4-pack",
    "title": "Mate essentials 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -304,7 +305,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-essentials-4-pack-navy-blaze-pink-punch",
    "title": "Mate essentials 4 pack navy blaze pink punch",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -317,7 +318,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-green-surf",
    "title": "Mate green surf",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -330,7 +331,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-navy-blaze",
    "title": "Mate navy blaze",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -343,7 +344,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-pink-punch",
    "title": "Mate pink punch",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -356,7 +357,7 @@
    "url": "https://www.life360.com/tile-trackers/product/mate-sticker-duo",
    "title": "Mate sticker duo",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -369,7 +370,7 @@
    "url": "https://www.life360.com/tile-trackers/product/performance-pack",
    "title": "Performance pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -382,7 +383,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pet-tag",
    "title": "Pet tag",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -395,7 +396,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pet-tag-2-pack",
    "title": "Pet tag 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -408,7 +409,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-2-pack",
    "title": "Pro 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -421,7 +422,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-2-pack-black",
    "title": "Pro 2 pack black",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -434,7 +435,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-2-pack-white",
    "title": "Pro 2 pack white",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -447,7 +448,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-4-pack",
    "title": "Pro 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -460,7 +461,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-4-pack-white",
    "title": "Pro 4 pack white",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -473,7 +474,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-essentials-4-pack",
    "title": "Pro essentials 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -486,7 +487,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-essentials-4-pack-black-slate",
    "title": "Pro essentials 4 pack black slate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -499,7 +500,7 @@
    "url": "https://www.life360.com/tile-trackers/product/pro-slim-4-pack",
    "title": "Pro slim 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -512,7 +513,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-4-pack-black",
    "title": "Slim 4 pack black",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -525,7 +526,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-4-pack-earth",
    "title": "Slim 4 pack earth",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -538,7 +539,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-4-pack-multi",
    "title": "Slim 4 pack multi",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -551,7 +552,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-aqua-lemon",
    "title": "Slim aqua lemon",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -564,7 +565,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-blush",
    "title": "Slim blush",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -577,7 +578,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-dune",
    "title": "Slim dune",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -590,7 +591,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-green-surf",
    "title": "Slim green surf",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -603,7 +604,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-navy-blaze",
    "title": "Slim navy blaze",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -616,7 +617,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-pink-punch",
    "title": "Slim pink punch",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -629,7 +630,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-seaglass",
    "title": "Slim seaglass",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -642,7 +643,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-slate",
    "title": "Slim slate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -655,7 +656,7 @@
    "url": "https://www.life360.com/tile-trackers/product/slim-sticker-duo",
    "title": "Slim sticker duo",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -668,7 +669,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack",
    "title": "Starter pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -681,7 +682,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-black-white",
    "title": "Starter pack black white",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -694,7 +695,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-blush",
    "title": "Starter pack blush",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -707,7 +708,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-dune",
    "title": "Starter pack dune",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -720,7 +721,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-mickey-mouse",
    "title": "Starter pack mickey mouse",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -733,7 +734,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-minnie-mouse",
    "title": "Starter pack minnie mouse",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -746,7 +747,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-seaglass",
    "title": "Starter pack seaglass",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -759,7 +760,7 @@
    "url": "https://www.life360.com/tile-trackers/product/starter-pack-slate",
    "title": "Starter pack slate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -772,7 +773,7 @@
    "url": "https://www.life360.com/tile-trackers/product/sticker-2-pack",
    "title": "Sticker 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -785,7 +786,7 @@
    "url": "https://www.life360.com/tile-trackers/product/sticker-4-pack",
    "title": "Sticker 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -798,7 +799,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-2-pack-blush",
    "title": "Tile 2 pack blush",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -811,7 +812,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-2-pack-dune-seaglass",
    "title": "Tile 2 pack dune seaglass",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -824,7 +825,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-4-pack-dusk",
    "title": "Tile 4 pack dusk",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -837,7 +838,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-4-pack-earth",
    "title": "Tile 4 pack earth",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -850,7 +851,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-4-pack-essentials-dusk",
    "title": "Tile 4 pack essentials dusk",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -863,7 +864,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-blush",
    "title": "Tile blush",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -876,7 +877,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-dune",
    "title": "Tile dune",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -889,7 +890,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-mickey-and-minnie",
    "title": "Tile mickey and minnie",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -902,7 +903,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-mickey-mouse",
    "title": "Tile mickey mouse",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -915,7 +916,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-seaglass",
    "title": "Tile seaglass",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -928,7 +929,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-slate",
    "title": "Tile slate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -941,7 +942,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-mate",
    "title": "White mate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -954,7 +955,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-mate-2-pack",
    "title": "White mate 2 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -967,7 +968,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-mate-4-pack",
    "title": "White mate 4 pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -980,7 +981,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-performance-pack",
    "title": "White performance pack",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -993,7 +994,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-pro",
    "title": "White pro",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1006,7 +1007,7 @@
    "url": "https://www.life360.com/tile-trackers/product/white-pro-slim-pack-2024",
    "title": "White pro slim pack 2024",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1019,7 +1020,7 @@
    "url": "https://www.life360.com/tile-trackers/products",
    "title": "Products",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1032,7 +1033,7 @@
    "url": "https://www.life360.com/tile-trackers/products/bluetooth-trackers-under-30",
    "title": "Bluetooth trackers under 30",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1045,7 +1046,7 @@
    "url": "https://www.life360.com/tile-trackers/products/bluetooth-trackers-under-50",
    "title": "Bluetooth trackers under 50",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1058,7 +1059,7 @@
    "url": "https://www.life360.com/tile-trackers/products/bluetooth-trackers-under-60",
    "title": "Bluetooth trackers under 60",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1071,7 +1072,7 @@
    "url": "https://www.life360.com/tile-trackers/products/combo-packs",
    "title": "Combo packs",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1084,7 +1085,7 @@
    "url": "https://www.life360.com/tile-trackers/products/deals",
    "title": "Deals",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1097,7 +1098,7 @@
    "url": "https://www.life360.com/tile-trackers/products/limited-edition",
    "title": "Limited edition",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1110,7 +1111,7 @@
    "url": "https://www.life360.com/tile-trackers/products/new-arrivals",
    "title": "New arrivals",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1123,7 +1124,7 @@
    "url": "https://www.life360.com/tile-trackers/products/pets",
    "title": "Pets",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1136,7 +1137,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-exclusives",
    "title": "Tile exclusives",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1149,7 +1150,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-mate",
    "title": "Tile mate",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1162,7 +1163,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-pro",
    "title": "Tile pro",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1175,7 +1176,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-slim",
    "title": "Tile slim",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1188,7 +1189,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-sticker",
    "title": "Tile sticker",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1201,7 +1202,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tiles-for-bikes",
    "title": "Tiles for bikes",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1214,7 +1215,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tiles-for-cars",
    "title": "Tiles for cars",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1227,7 +1228,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tiles-for-electronics",
    "title": "Tiles for electronics",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1240,7 +1241,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tiles-for-keys",
    "title": "Tiles for keys",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1253,7 +1254,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tiles-for-luggage",
    "title": "Tiles for luggage",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1266,7 +1267,7 @@
    "url": "https://www.life360.com/tile-trackers/products/travel-essentials",
    "title": "Travel essentials",
    "date": null,
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -1642,19 +1643,26 @@
   "bark.us/blog/creative-interests-kids-online": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/creative-interests-kids-online/",
-   "title": "Creative interests kids online",
+   "title": "How to Help Your Kid Express Their Creative Interests Online",
    "date": "2026-11-05T16:57:17+00:00",
    "lastmod": "2026-11-05T16:57:17+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "helping kids express creativity online",
+    "search": "how to help kids creative interests social media",
+    "why": "Establishes parenting authority and builds trust with families researching digital safety."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-05-28T19:44:59+00:00",
    "mod": "2026-11-05T16:57:17+00:00",
-   "fp": "a39704459f7c26ad",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "4011263853e758c2",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:17+00:00",
    "bulk_type": "edit"
@@ -1802,11 +1810,18 @@
   "bark.us/blog/byte-app-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/byte-app-kids/",
-   "title": "Byte app kids",
+   "title": "What Parents Need to Know About the Byte App",
    "date": "2026-11-05T16:57:07+00:00",
    "lastmod": "2026-11-05T16:57:07+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Byte app safety for kids",
+    "search": "is byte app safe for kids",
+    "why": "Educates parents about a social app their kids use, positioning Bark as the expert guide."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -1814,7 +1829,7 @@
    "pub": "2020-03-04T20:00:16+00:00",
    "mod": "2026-11-05T16:57:07+00:00",
    "fp": "d4f119374688a460",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:07+00:00",
    "bulk_type": "edit"
@@ -3357,11 +3372,18 @@
   "bark.us/blog/hoop-app-tinder-teens": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/hoop-app-tinder-teens/",
-   "title": "Hoop app tinder teens",
+   "title": "The Hoop App: Where Tinder for Teens Meets Snapchat",
    "date": "2026-11-05T16:57:06+00:00",
    "lastmod": "2026-11-05T16:57:06+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Hoop app safety risks for kids",
+    "search": "is hoop app safe for kids",
+    "why": "Educates parents on emerging app risks to drive awareness and position Bark as safety expert."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -3369,7 +3391,7 @@
    "pub": "2020-02-18T18:47:56+00:00",
    "mod": "2026-11-05T16:57:06+00:00",
    "fp": "6b9b84f4cb94d390",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:06+00:00",
    "bulk_type": "edit"
@@ -3756,19 +3778,26 @@
   "bark.us/blog/online-multiplayer-games": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/online-multiplayer-games/",
-   "title": "Online multiplayer games",
+   "title": "Our Picks Of Family-Friendly Multiplayer Games Online",
    "date": "2026-11-05T16:57:15+00:00",
    "lastmod": "2026-11-05T16:57:15+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "family-friendly multiplayer games online",
+    "search": "best family-friendly multiplayer games online",
+    "why": "Builds authority in family safety by curating trusted games parents can let kids play."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-05-07T17:04:29+00:00",
    "mod": "2026-11-05T16:57:15+00:00",
-   "fp": "ad62156edb6c3553",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "c119cb3d12d6fa87",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:15+00:00",
    "bulk_type": "edit"
@@ -3776,11 +3805,18 @@
   "bark.us/blog/how-does-zoom-work": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/how-does-zoom-work/",
-   "title": "How does zoom work",
+   "title": "How Does Zoom Work? Video Calls for School and Business",
    "date": "2026-11-05T16:57:09+00:00",
    "lastmod": "2026-11-05T16:57:09+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "How Zoom works for families",
+    "search": "how does Zoom work",
+    "why": "Educates parents about video conferencing tools and safety concerns for kids."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -3788,7 +3824,7 @@
    "pub": "2020-03-25T22:45:13+00:00",
    "mod": "2026-11-05T16:57:09+00:00",
    "fp": "256cd25c21ecfdf7",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:09+00:00",
    "bulk_type": "edit"
@@ -4178,11 +4214,18 @@
   "bark.us/blog/digital-citizenship": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/digital-citizenship/",
-   "title": "Digital citizenship",
+   "title": "Digital Citizenship: Teach Your Kids About Online Predators",
    "date": "2026-11-05T16:57:32+00:00",
    "lastmod": "2026-11-05T16:57:32+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Online predators, fake profiles, digital citizenship",
+    "search": "teach kids about online predators",
+    "why": "Educates parents on digital safety risks and how to discuss dangers with children."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -4190,7 +4233,7 @@
    "pub": "2021-05-19T14:42:27+00:00",
    "mod": "2026-11-05T16:57:32+00:00",
    "fp": "ec15c977ed2463d4",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:32+00:00",
    "bulk_type": "edit"
@@ -4311,11 +4354,18 @@
   "bark.us/blog/best-educational-apps": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/best-educational-apps/",
-   "title": "Best educational apps",
+   "title": "The Best Educational Apps and Learning Tools for Kids",
    "date": "2026-11-05T16:57:46+00:00",
    "lastmod": "2026-11-05T16:57:46+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Best educational apps for kids",
+    "search": "best educational apps for kids",
+    "why": "Establishes parental expertise in kid-safe digital tools and app selection."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -4323,7 +4373,7 @@
    "pub": "2023-05-16T17:29:09+00:00",
    "mod": "2026-11-05T16:57:46+00:00",
    "fp": "348de99b9177a773",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:46+00:00",
    "bulk_type": "edit"
@@ -4535,11 +4585,18 @@
   "bark.us/blog/healthy-tech-habits-for-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/healthy-tech-habits-for-kids/",
-   "title": "Healthy tech habits for kids",
+   "title": "5 Healthy Tech Habits for Kids",
    "date": "2026-11-05T16:57:48+00:00",
    "lastmod": "2026-11-05T16:57:48+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Healthy tech habits for kids",
+    "search": "healthy tech habits for children",
+    "why": "Establishes parenting authority and captures parents researching screen time and digital wellness."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -4547,7 +4604,7 @@
    "pub": "2023-06-27T17:19:26+00:00",
    "mod": "2026-11-05T16:57:48+00:00",
    "fp": "280a975e4174c167",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:48+00:00",
    "bulk_type": "edit"
@@ -4661,11 +4718,18 @@
   "bark.us/blog/ios-16": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/ios-16/",
-   "title": "Ios 16",
+   "title": "iOS 16: What Parents & Families Need to Know",
    "date": "2026-11-05T16:57:39+00:00",
    "lastmod": "2026-11-05T16:57:39+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "iOS 16 safety features for parents",
+    "search": "iOS 16 what parents need to know",
+    "why": "Establishes Bark as trusted guide for parents navigating iOS updates and digital safety risks."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -4673,7 +4737,7 @@
    "pub": "2022-09-09T17:49:16+00:00",
    "mod": "2026-11-05T16:57:39+00:00",
    "fp": "563f5eab1d96a3fd",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:39+00:00",
    "bulk_type": "edit"
@@ -5131,11 +5195,18 @@
   "bark.us/blog/safer-internet-day-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/safer-internet-day-kids/",
-   "title": "Safer internet day kids",
+   "title": "Safer Internet Day: How to Talk to Your Kids About Digital Citizenship",
    "date": "2026-11-05T16:57:04+00:00",
    "lastmod": "2026-11-05T16:57:04+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Digital citizenship conversation starters",
+    "search": "how to talk to kids about digital citizenship",
+    "why": "Builds authority on digital safety and attracts parents seeking guidance on online conversations."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -5143,7 +5214,7 @@
    "pub": "2020-02-11T20:49:46+00:00",
    "mod": "2026-11-05T16:57:04+00:00",
    "fp": "1a4a9f25da51330f",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:04+00:00",
    "bulk_type": "edit"
@@ -5540,11 +5611,18 @@
   "bark.us/blog/2023-year-in-review": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/2023-year-in-review/",
-   "title": "2023 year in review",
+   "title": "Bark’s 2023 End-of-Year Review",
    "date": "2026-11-05T16:57:55+00:00",
    "lastmod": "2026-11-05T16:57:55+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "customers",
+    "topic": "Bark company milestones 2023",
+    "search": "Bark 2023 year in review",
+    "why": "Celebrates company achievements to build brand loyalty with existing users."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -5552,7 +5630,7 @@
    "pub": "2023-12-28T17:16:14+00:00",
    "mod": "2026-11-05T16:57:55+00:00",
    "fp": "f526ff3306b27024",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:55+00:00",
    "bulk_type": "edit"
@@ -6310,11 +6388,18 @@
   "bark.us/blog/what-does-pansexual-mean": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/what-does-pansexual-mean/",
-   "title": "What does pansexual mean",
+   "title": "What Is Pansexual? How Gen Z Talks About Gender, Sexuality, and More",
    "date": "2026-11-05T16:57:21+00:00",
    "lastmod": "2026-11-05T16:57:21+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Understanding LGBTQ+ terminology for parents",
+    "search": "what does pansexual mean definition",
+    "why": "Builds trust with parents seeking guidance on Gen Z identity concepts."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -6322,7 +6407,7 @@
    "pub": "2020-06-18T00:14:51+00:00",
    "mod": "2026-11-05T16:57:21+00:00",
    "fp": "7d3a478b033a9290",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:21+00:00",
    "bulk_type": "edit"
@@ -6533,19 +6618,26 @@
   "bark.us/blog/conversation-starters-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/conversation-starters-kids/",
-   "title": "Conversation starters kids",
+   "title": "Conversation Starters For Kids That Will Help Bring Your Family Closer",
    "date": "2026-11-05T16:57:49+00:00",
    "lastmod": "2026-11-05T16:57:49+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Conversation starters for kids families",
+    "search": "conversation starters for kids families",
+    "why": "Establishes parenting authority and builds trust with families interested in child communication."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2021-07-12T14:49:00+00:00",
    "mod": "2026-11-05T16:57:49+00:00",
-   "fp": "3a6112ee793f8631",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "c6b27edf632644ef",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:49+00:00",
    "bulk_type": "edit"
@@ -6771,19 +6863,26 @@
   "bark.us/blog/what-is-consent-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/what-is-consent-kids/",
-   "title": "What is consent kids",
+   "title": "What is Consent? Here’s How to Teach Your Kid About Healthy Boundaries",
    "date": "2026-11-05T16:57:30+00:00",
    "lastmod": "2026-11-05T16:57:30+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Teaching kids about consent boundaries",
+    "search": "how to teach kids about consent",
+    "why": "Establishes parenting authority on digital safety and child wellbeing topics."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2021-01-20T23:33:04+00:00",
    "mod": "2026-11-05T16:57:30+00:00",
-   "fp": "cfa7e829ec4ec8d2",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "49f908443676253a",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:30+00:00",
    "bulk_type": "edit"
@@ -7568,11 +7667,18 @@
   "bark.us/blog/mental-health-apps": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/mental-health-apps/",
-   "title": "Mental health apps",
+   "title": "Mental Health Apps That Help Kids and Families Find Their Focus",
    "date": "2026-11-05T16:57:35+00:00",
    "lastmod": "2026-11-05T16:57:35+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Mental health apps for kids families",
+    "search": "best mental health apps for kids",
+    "why": "Establishes parental authority on child digital wellness beyond its core monitoring product."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -7580,7 +7686,7 @@
    "pub": "2022-05-10T20:24:50+00:00",
    "mod": "2026-11-05T16:57:35+00:00",
    "fp": "e828fc01aee0747f",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:35+00:00",
    "bulk_type": "edit"
@@ -7627,11 +7733,18 @@
   "bark.us/blog/video-sharing-apps": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/video-sharing-apps/",
-   "title": "Video sharing apps",
+   "title": "The Video Sharing Apps Your Child Is Probably Using",
    "date": "2026-11-05T16:57:41+00:00",
    "lastmod": "2026-11-05T16:57:41+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Video sharing apps for kids safety",
+    "search": "video sharing apps kids safe",
+    "why": "Establishes Bark as trusted guide for parents navigating children's digital safety risks."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -7639,7 +7752,7 @@
    "pub": "2022-09-12T19:28:43+00:00",
    "mod": "2026-11-05T16:57:41+00:00",
    "fp": "3b70d226a5f5397e",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:41+00:00",
    "bulk_type": "edit"
@@ -7993,11 +8106,18 @@
   "bark.us/blog/trafficking-myths": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/trafficking-myths/",
-   "title": "Trafficking myths",
+   "title": "5 Common Myths Parents May Believe About Human Trafficking",
    "date": "2026-11-05T16:57:56+00:00",
    "lastmod": "2026-11-05T16:57:56+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Human trafficking myths and prevention",
+    "search": "human trafficking myths parents awareness",
+    "why": "Establishes Bark as trusted family safety authority by educating on critical parental concern."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -8005,7 +8125,7 @@
    "pub": "2024-01-09T19:58:07+00:00",
    "mod": "2026-11-05T16:57:56+00:00",
    "fp": "8437c14dcd0ecadd",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:56+00:00",
    "bulk_type": "edit"
@@ -8254,11 +8374,18 @@
   "bark.us/blog/switch-to-android": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/switch-to-android/",
-   "title": "Switch to android",
+   "title": "5 Things Families Need to Know About Switching from iPhone to Android",
    "date": "2026-11-05T16:57:58+00:00",
    "lastmod": "2026-11-05T16:57:58+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Switch from iPhone to Android",
+    "search": "how to switch phone from iPhone to Android",
+    "why": "Educates parents considering device switches, positioning Bark as helpful guide for family tech decisions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -8266,7 +8393,7 @@
    "pub": "2024-01-24T16:39:00+00:00",
    "mod": "2026-11-05T16:57:58+00:00",
    "fp": "256c892a254c3013",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:58+00:00",
    "bulk_type": "edit"
@@ -8380,11 +8507,18 @@
   "bark.us/blog/settings-on-chromebooks-ultimate-guide": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/settings-on-chromebooks-ultimate-guide/",
-   "title": "Settings on chromebooks ultimate guide",
+   "title": "The Ultimate Guide to Chromebook Settings for Parents and Schools",
    "date": "2026-11-05T16:57:11+00:00",
    "lastmod": "2026-11-05T16:57:11+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Chromebook settings guide parents schools",
+    "search": "chromebook settings guide parents schools",
+    "why": "Educates parents and schools on safe Chromebook setup and configuration practices."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -8392,7 +8526,7 @@
    "pub": "2020-04-08T20:24:54+00:00",
    "mod": "2026-11-05T16:57:11+00:00",
    "fp": "1a884a4ec730e095",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:11+00:00",
    "bulk_type": "edit"
@@ -8400,19 +8534,26 @@
   "bark.us/blog/ultimate-back-to-school-guide": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/ultimate-back-to-school-guide/",
-   "title": "Ultimate back to school guide",
+   "title": "Back to School in 2021: The Ultimate Guide for Parents",
    "date": "2026-11-05T16:57:22+00:00",
    "lastmod": "2026-11-05T16:57:22+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Back to school online safety",
+    "search": "back to school safety guide parents",
+    "why": "Establishes Bark as trusted resource for parents preparing kids for school year."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-08-13T15:59:36+00:00",
    "mod": "2026-11-05T16:57:22+00:00",
-   "fp": "c9df998648dc9e1c",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "9c96e8c6ef578489",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:22+00:00",
    "bulk_type": "edit"
@@ -8518,19 +8659,26 @@
   "bark.us/blog/2025-human-trafficking-awareness-month": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/2025-human-trafficking-awareness-month/",
-   "title": "2025 human trafficking awareness month",
+   "title": "Talking to Kids About Online Safety: How to Prevent Trafficking Risks",
    "date": "2026-11-05T16:58:07+00:00",
    "lastmod": "2026-11-05T16:58:07+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "preventing online trafficking risks",
+    "search": "how to talk to kids about human trafficking",
+    "why": "Establishes Bark as trusted authority on child online safety topics."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2025-01-07T18:57:14+00:00",
    "mod": "2026-11-05T16:58:07+00:00",
-   "fp": "ba582d6d3443c895",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "9c6e065fe0d8aeec",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:07+00:00",
    "bulk_type": "edit"
@@ -8714,19 +8862,26 @@
   "bark.us/blog/best-video-editing-app": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/best-video-editing-app/",
-   "title": "Best video editing app",
+   "title": "CapCut Alternatives: The 5 Best Video Editing Apps for Kids",
    "date": "2026-11-05T16:58:02+00:00",
    "lastmod": "2026-11-05T16:58:02+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Video editing apps for kids",
+    "search": "best video editing apps for kids",
+    "why": "Establishes Bark as trusted guide for child-safe digital tools and parenting decisions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2024-06-11T19:00:42+00:00",
    "mod": "2026-11-05T16:58:02+00:00",
-   "fp": "86c98b9a80eef773",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "6cd5b32f41f5e453",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:02+00:00",
    "bulk_type": "edit"
@@ -8871,19 +9026,26 @@
   "bark.us/blog/health-apps-teens": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/health-apps-teens/",
-   "title": "Health apps teens",
+   "title": "5 Must-Have Health Apps for Teens",
    "date": "2026-11-05T16:58:00+00:00",
    "lastmod": "2026-11-05T16:58:00+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Health apps for teens",
+    "search": "best health apps for teenagers",
+    "why": "Establishes Bark as a trusted guide in teen wellness while promoting their monitoring app."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2024-02-22T20:47:05+00:00",
    "mod": "2026-11-05T16:58:00+00:00",
-   "fp": "48203823db9e2ea7",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "29d852c1bba4dce6",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:00+00:00",
    "bulk_type": "edit"
@@ -9158,11 +9320,18 @@
   "bark.us/blog/world-mental-health-day-2024": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/world-mental-health-day-2024/",
-   "title": "World mental health day 2024",
+   "title": "Celebrating the Wins for World Mental Health Day 2024",
    "date": "2026-11-05T16:58:05+00:00",
    "lastmod": "2026-11-05T16:58:05+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Teen mental health trends and wins",
+    "search": "World Mental Health Day 2024 teen",
+    "why": "Builds authority on teen mental health to establish trust with safety-conscious parents."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -9170,7 +9339,7 @@
    "pub": "2024-10-10T23:03:00+00:00",
    "mod": "2026-11-05T16:58:05+00:00",
    "fp": "98780e9570c69453",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:05+00:00",
    "bulk_type": "edit"
@@ -9191,11 +9360,18 @@
   "bark.us/blog/apps-kids-parents-will-love-on-their-new-bark-phone": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/apps-kids-parents-will-love-on-their-new-bark-phone/",
-   "title": "Apps kids parents will love on their new bark phone",
+   "title": "Apps Kids & Parents Will Love on Their New Bark Phone",
    "date": "2026-11-05T16:57:44+00:00",
    "lastmod": "2026-11-05T16:57:44+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "comparing",
+    "topic": "best apps for kids on Bark Phone",
+    "search": "best apps kids Bark Phone",
+    "why": "Showcases Bark Phone capabilities through curated app recommendations for parents evaluating the device."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -9203,7 +9379,7 @@
    "pub": "2022-12-23T18:02:32+00:00",
    "mod": "2026-11-05T16:57:44+00:00",
    "fp": "09c53f0f7765931a",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:44+00:00",
    "bulk_type": "edit"
@@ -9401,11 +9577,18 @@
   "bark.us/blog/lgbtq-mental-health": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/lgbtq-mental-health/",
-   "title": "Lgbtq mental health",
+   "title": "LGBTQ+ Mental Health: How to Support Your Child",
    "date": "2026-11-05T16:57:26+00:00",
    "lastmod": "2026-11-05T16:57:26+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "LGBTQ+ mental health support for parents",
+    "search": "how to support LGBTQ child mental health",
+    "why": "Establishes parental authority on family safety and child wellbeing beyond digital protection."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -9413,7 +9596,7 @@
    "pub": "2020-09-10T16:45:32+00:00",
    "mod": "2026-11-05T16:57:26+00:00",
    "fp": "a3db503e320d7d9a",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:26+00:00",
    "bulk_type": "edit"
@@ -9500,11 +9683,18 @@
   "bark.us/blog/school-event-resources": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/school-event-resources/",
-   "title": "School event resources",
+   "title": "School Event Resources for Planning an Amazing Event",
    "date": "2026-11-05T16:58:04+00:00",
    "lastmod": "2026-11-05T16:58:04+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "School event resources and planning",
+    "search": "school event resources planning",
+    "why": "Builds authority in school safety and educates parents on digital wellness topics."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -9512,7 +9702,7 @@
    "pub": "2019-08-26T16:12:00+00:00",
    "mod": "2026-11-05T16:58:04+00:00",
    "fp": "ec08bc84e6973292",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:04+00:00",
    "bulk_type": "edit"
@@ -10178,11 +10368,18 @@
   "bark.us/blog/smart-home-devices": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/smart-home-devices/",
-   "title": "Smart home devices",
+   "title": "Alexa, Is My Kid Safe? How to Help Protect Your Family’s Smart Home Devices",
    "date": "2026-11-05T16:58:09+00:00",
    "lastmod": "2026-11-05T16:58:09+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Smart home device safety for families",
+    "search": "how to keep kids safe smart home devices",
+    "why": "Establishes Bark as trusted guide for family digital safety and smart home risks."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -10190,7 +10387,7 @@
    "pub": "2025-02-13T19:08:46+00:00",
    "mod": "2026-11-05T16:58:09+00:00",
    "fp": "96bb0c2feb8b71e9",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:58:09+00:00",
    "bulk_type": "edit"
@@ -10335,19 +10532,26 @@
   "bark.us/blog/best-gifts-for-teens-2023": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/best-gifts-for-teens-2023/",
-   "title": "Best gifts for teens 2023",
+   "title": "Best Gifts for Teens: Bark’s 2023 Holiday Gift Guide",
    "date": "2026-11-05T16:57:51+00:00",
    "lastmod": "2026-11-05T16:57:51+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "best gifts for teens 2023",
+    "search": "best gifts for teens 2023",
+    "why": "Builds authority in family safety niche while capturing holiday shopping intent."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2023-10-24T19:30:28+00:00",
    "mod": "2026-11-05T16:57:51+00:00",
-   "fp": "3eb415ca84abacc9",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "43c48ea29cb2a6d0",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:51+00:00",
    "bulk_type": "edit"
@@ -10570,11 +10774,18 @@
   "bark.us/blog/2022-holiday-gifts-for-kids": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/2022-holiday-gifts-for-kids/",
-   "title": "2022 holiday gifts for kids",
+   "title": "2022’s Top Holiday Gifts for Kids",
    "date": "2026-11-05T16:57:42+00:00",
    "lastmod": "2026-11-05T16:57:42+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Holiday gift ideas for kids",
+    "search": "best holiday gifts for kids 2022",
+    "why": "Builds authority as parenting expert and captures seasonal gift-search traffic."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -10582,7 +10793,7 @@
    "pub": "2022-11-23T15:34:45+00:00",
    "mod": "2026-11-05T16:57:42+00:00",
    "fp": "c967a4765ae6cb3d",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:42+00:00",
    "bulk_type": "edit"
@@ -10989,11 +11200,18 @@
   "bark.us/blog/cyberbullying-laws": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/cyberbullying-laws/",
-   "title": "Cyberbullying laws",
+   "title": "A State-by-State Guide to Cyberbullying Laws",
    "date": "2026-11-05T16:57:28+00:00",
    "lastmod": "2026-11-05T16:57:28+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Cyberbullying laws by state",
+    "search": "cyberbullying laws by state",
+    "why": "Establishes authority on cyberbullying education; positions Bark as trusted parenting resource."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -11001,7 +11219,7 @@
    "pub": "2020-10-06T16:06:52+00:00",
    "mod": "2026-11-05T16:57:28+00:00",
    "fp": "394b26bd23008827",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:28+00:00",
    "bulk_type": "edit"
@@ -11009,11 +11227,18 @@
   "bark.us/blog/sextortion-laws": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/sextortion-laws/",
-   "title": "Sextortion laws",
+   "title": "State-by-State Sextortion Laws",
    "date": "2026-11-05T16:57:53+00:00",
    "lastmod": "2026-11-05T16:57:53+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Sextortion laws and prevention",
+    "search": "state sextortion laws what is",
+    "why": "Educates parents on emerging threat to position Bark as trusted family safety guide."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -11021,7 +11246,7 @@
    "pub": "2023-11-30T18:50:41+00:00",
    "mod": "2026-11-05T16:57:53+00:00",
    "fp": "6a71041425bfb616",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:53+00:00",
    "bulk_type": "edit"
@@ -11283,19 +11508,26 @@
   "bark.us/blog/sexual-assault-awareness-child": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/sexual-assault-awareness-child/",
-   "title": "Sexual assault awareness child",
+   "title": "Sexual Assault and Awareness: How to Support and Empower Your Child",
    "date": "2026-11-05T16:57:13+00:00",
    "lastmod": "2026-11-05T16:57:13+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Sexual assault awareness and child safety",
+    "search": "how to support child after sexual assault",
+    "why": "Establishes parental authority on critical safety issue to build trust and brand credibility."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-04-28T18:38:46+00:00",
    "mod": "2026-11-05T16:57:13+00:00",
-   "fp": "bf5c18e7dd983727",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "854d7fcd5a4c19d7",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:13+00:00",
    "bulk_type": "edit"
@@ -11303,19 +11535,26 @@
   "bark.us/blog/tiktok-shutting-down": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/tiktok-shutting-down/",
-   "title": "Tiktok shutting down",
+   "title": "Is TikTok Shutting Down? Here Are Some Alternatives To Watch Out For",
    "date": "2026-11-05T16:57:24+00:00",
    "lastmod": "2026-11-05T16:57:24+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "TikTok alternatives for families",
+    "search": "TikTok alternatives for kids",
+    "why": "Educates parents on TikTok risks and safer alternatives for their children."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-08-18T17:22:20+00:00",
    "mod": "2026-11-05T16:57:24+00:00",
-   "fp": "2f0abc12ab1ac371",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "1a02f9830f58fa8d",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:24+00:00",
    "bulk_type": "edit"
@@ -11787,19 +12026,26 @@
   "bark.us/blog/acts-of-violence-hate-speech": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/acts-of-violence-hate-speech/",
-   "title": "Acts of violence hate speech",
+   "title": "Hate Speech: How to Talk to Your Child About Acts of Violence",
    "date": "2026-11-05T16:57:19+00:00",
    "lastmod": "2026-11-05T16:57:19+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Talking to kids about hate speech",
+    "search": "how to talk to children about hate speech",
+    "why": "Builds authority in family safety and digital citizenship education for parents."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": true,
    "pub": "2020-06-04T22:00:46+00:00",
    "mod": "2026-11-05T16:57:19+00:00",
-   "fp": "126612add4320871",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "22da4d622970d44f",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:19+00:00",
    "bulk_type": "edit"
@@ -11866,11 +12112,18 @@
   "bark.us/blog/illegal-streaming-sites": {
    "site": "Bark",
    "url": "https://www.bark.us/blog/illegal-streaming-sites/",
-   "title": "Illegal streaming sites",
+   "title": "The Illegal Streaming Sites Your Child May Be Using",
    "date": "2026-11-05T16:57:37+00:00",
    "lastmod": "2026-11-05T16:57:37+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Illegal streaming sites risks for kids",
+    "search": "illegal streaming sites kids watch",
+    "why": "Educates parents on digital risks; builds trust in Bark's safety expertise."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -11878,7 +12131,7 @@
    "pub": "2022-07-08T18:14:40+00:00",
    "mod": "2026-11-05T16:57:37+00:00",
    "fp": "eb9d6ef727a13434",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-11-05T16:57:37+00:00",
    "bulk_type": "edit"
@@ -13931,11 +14184,12 @@
    "bulk_mod": true,
    "pub": "2025-06-03T17:21:53+00:00",
    "mod": "2026-09-30T17:25:12+00:00",
-   "fp": "5d3eee97f3eb724c",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T17:25:12+00:00",
-   "bulk_type": "edit"
+   "fp": "13e7c350c408647d",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/blog/protect-child-holiday-family-gatherings": {
    "site": "Bark",
@@ -13985,7 +14239,7 @@
    "mod": null,
    "fp": "55f39d5f0e5099c2",
    "dates_checked": "2026-11-09T16:29:16+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-10-02T12:53:19+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -14036,12 +14290,13 @@
    "prog": null,
    "pub": "2026-10-15T18:01:52+00:00",
    "mod": "2026-10-15T18:01:53+00:00",
-   "fp": "b4abd6b680c7af17",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
-   "kind": "new",
-   "event": "2026-10-15T18:01:52+00:00",
+   "fp": "af4d4fbd42d9e27e",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "bark.us/blog/bullying-in-video-games": {
    "site": "Bark",
@@ -14251,7 +14506,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/bark-vs-boomerang": {
    "site": "Bark",
@@ -14304,7 +14560,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-kitkat-v4": {
    "site": "Bark",
@@ -14325,7 +14582,8 @@
    "kind": "bulk",
    "event": "2026-10-29T16:02:36+00:00",
    "bulk_type": "edit",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/how-to-set-up-android-kitkat-4-0-parental-controls": {
    "site": "Bark",
@@ -14346,7 +14604,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:27+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-youtube-parental-controls": {
    "site": "Bark",
@@ -14367,7 +14626,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-os-12": {
    "site": "Bark",
@@ -14388,7 +14648,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-os-11": {
    "site": "Bark",
@@ -14409,7 +14670,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-pie-v9": {
    "site": "Bark",
@@ -14430,7 +14692,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-one-plus": {
    "site": "Bark",
@@ -14451,7 +14714,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-lollipop-v5": {
    "site": "Bark",
@@ -14472,7 +14736,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-att": {
    "site": "Bark",
@@ -14493,7 +14758,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-askfm": {
    "site": "Bark",
@@ -14514,7 +14780,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-dish": {
    "site": "Bark",
@@ -14535,7 +14802,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-charter": {
    "site": "Bark",
@@ -14556,7 +14824,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/mac-computer-catalina": {
    "site": "Bark",
@@ -14577,7 +14846,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-facebook": {
    "site": "Bark",
@@ -14598,7 +14868,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-google-pixel-4": {
    "site": "Bark",
@@ -14619,7 +14890,8 @@
    "kind": "bulk",
    "event": "2026-10-29T16:02:33+00:00",
    "bulk_type": "edit",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/internet-google-fiber": {
    "site": "Bark",
@@ -14640,7 +14912,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-google-fiber": {
    "site": "Bark",
@@ -14661,7 +14934,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:37+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/smart-home-google-nest": {
    "site": "Bark",
@@ -14682,7 +14956,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:21+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-5c": {
    "site": "Bark",
@@ -14703,7 +14978,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-12": {
    "site": "Bark",
@@ -14724,7 +15000,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-13": {
    "site": "Bark",
@@ -14745,7 +15022,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:13+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-6s": {
    "site": "Bark",
@@ -14766,7 +15044,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-8": {
    "site": "Bark",
@@ -14787,7 +15066,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-6": {
    "site": "Bark",
@@ -14808,7 +15088,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-se": {
    "site": "Bark",
@@ -14829,7 +15110,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-5s": {
    "site": "Bark",
@@ -14850,7 +15132,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-7": {
    "site": "Bark",
@@ -14871,7 +15154,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:59+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-kidzworld": {
    "site": "Bark",
@@ -14892,7 +15176,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-marco-polo": {
    "site": "Bark",
@@ -14913,7 +15198,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:49+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-x": {
    "site": "Bark",
@@ -14934,7 +15220,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/tablet-microsoft-surface": {
    "site": "Bark",
@@ -14955,7 +15242,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:21+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-roblox": {
    "site": "Bark",
@@ -14976,7 +15264,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:15+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/mac-computer-mojave": {
    "site": "Bark",
@@ -14997,7 +15286,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-palm": {
    "site": "Bark",
@@ -15018,7 +15308,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-ps5": {
    "site": "Bark",
@@ -15039,7 +15330,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:25+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/pc-computer-windows-7": {
    "site": "Bark",
@@ -15060,7 +15352,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-galaxy-note-9": {
    "site": "Bark",
@@ -15081,7 +15374,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:13+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-galaxy-note-8": {
    "site": "Bark",
@@ -15102,7 +15396,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:20+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-galaxy-note-10": {
    "site": "Bark",
@@ -15123,7 +15418,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:13+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/internet-spectrum": {
    "site": "Bark",
@@ -15144,7 +15440,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/wireless-carrier-sprint": {
    "site": "Bark",
@@ -15165,7 +15462,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:20+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-galaxy-s8": {
    "site": "Bark",
@@ -15186,7 +15484,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:51+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-kids-home": {
    "site": "Bark",
@@ -15207,7 +15506,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-twitch": {
    "site": "Bark",
@@ -15228,7 +15528,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:39+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-verizon": {
    "site": "Bark",
@@ -15249,7 +15550,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:37+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-xbox-x": {
    "site": "Bark",
@@ -15270,7 +15572,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-xbox-one-x": {
    "site": "Bark",
@@ -15291,7 +15594,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-xbox-one-s": {
    "site": "Bark",
@@ -15312,7 +15616,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:15+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/pc-computer-windows-11": {
    "site": "Bark",
@@ -15333,7 +15638,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-xfinity-comcast": {
    "site": "Bark",
@@ -15354,7 +15660,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:37+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/mac-computer-bigsur": {
    "site": "Bark",
@@ -15375,7 +15682,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/features-6-up-illos-light-blue": {
    "site": "Bark",
@@ -15424,7 +15732,8 @@
    "kind": "bulk",
    "event": "2026-10-29T16:09:01+00:00",
    "bulk_type": "edit",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/new-paid-search-template-may-2022-hero-3": {
    "site": "Bark",
@@ -15488,7 +15797,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-five-nights-at-freddys": {
    "site": "Bark",
@@ -15509,7 +15819,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:26+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-samsung-galaxy-s10": {
    "site": "Bark",
@@ -15530,7 +15841,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:01+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/bark-mobile-distributor": {
    "site": "Bark",
@@ -15603,7 +15915,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:26+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/flex-meaning": {
    "site": "Bark",
@@ -15988,7 +16301,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/depression": {
    "site": "Bark",
@@ -16120,7 +16434,8 @@
    "kind": "bulk",
    "event": "2026-10-29T16:02:30+00:00",
    "bulk_type": "edit",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/christmas-gift-ideas-kids": {
    "site": "Bark",
@@ -16167,7 +16482,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:20+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/streaming-services-paramount-plus": {
    "site": "Bark",
@@ -16188,7 +16504,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:21+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-google-pixel-5": {
    "site": "Bark",
@@ -16209,7 +16526,8 @@
    "kind": "bulk",
    "event": "2022-04-28T21:46:56+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-google-pixel-2": {
    "site": "Bark",
@@ -16230,7 +16548,8 @@
    "kind": "bulk",
    "event": "2026-10-29T16:02:27+00:00",
    "bulk_type": "edit",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/android-q-v10": {
    "site": "Bark",
@@ -16251,7 +16570,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:03:13+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/spooky-slang-quiz": {
    "site": "Bark",
@@ -16285,7 +16605,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/pc-computer-windows-vista": {
    "site": "Bark",
@@ -16306,7 +16627,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-nintendo-switch-lite": {
    "site": "Bark",
@@ -16327,7 +16649,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:26+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/cable-spectrum": {
    "site": "Bark",
@@ -16348,7 +16671,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:37+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-liveme": {
    "site": "Bark",
@@ -16369,7 +16693,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:49+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/tester-2": {
    "site": "Bark",
@@ -16470,7 +16795,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-pinterest": {
    "site": "Bark",
@@ -16491,7 +16817,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:49+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-vsco": {
    "site": "Bark",
@@ -16512,7 +16839,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:39+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-whatsapp": {
    "site": "Bark",
@@ -16533,7 +16861,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-youtube": {
    "site": "Bark",
@@ -16554,7 +16883,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/browsers-chrome": {
    "site": "Bark",
@@ -16575,7 +16905,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/browsers-firefox": {
    "site": "Bark",
@@ -16596,7 +16927,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/browsers-internet-explorer-edge": {
    "site": "Bark",
@@ -16617,7 +16949,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/browsers-safari": {
    "site": "Bark",
@@ -16638,7 +16971,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/email-provider-outlook-hotmail": {
    "site": "Bark",
@@ -16659,7 +16993,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:27+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/gaming-animal-crossing": {
    "site": "Bark",
@@ -16680,7 +17015,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:26+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/iphone-11": {
    "site": "Bark",
@@ -16701,7 +17037,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/mac-computer-high-sierra": {
    "site": "Bark",
@@ -16722,7 +17059,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/pc-computer-windows-10": {
    "site": "Bark",
@@ -16743,7 +17081,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/tablet-ipod-touch": {
    "site": "Bark",
@@ -16764,7 +17103,8 @@
    "kind": "bulk",
    "event": "2022-04-28T19:28:35+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/rizz-meaning-seo-page": {
    "site": "Bark",
@@ -16822,7 +17162,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:38+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/internet-cox": {
    "site": "Bark",
@@ -16843,7 +17184,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/sexting": {
    "site": "Bark",
@@ -16932,7 +17274,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:49+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/tech-guides": {
    "site": "Bark",
@@ -17202,7 +17545,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/bark-vs-msee": {
    "site": "Bark",
@@ -17288,7 +17632,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/top-parental-control-app": {
    "site": "Bark",
@@ -17355,7 +17700,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/chromebook": {
    "site": "Bark",
@@ -17369,7 +17715,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/sammys-law": {
    "site": "Bark",
@@ -17812,7 +18159,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:01:58+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/what-does-fwb-mean": {
    "site": "Bark",
@@ -17878,7 +18226,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/cheugy": {
    "site": "Bark",
@@ -17993,7 +18342,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/guides/app-management-apple-screen-time": {
    "site": "Bark",
@@ -18014,7 +18364,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:50+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/bark-vs-saferkid": {
    "site": "Bark",
@@ -18093,7 +18444,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-social-parental-control": {
    "site": "Bark",
@@ -18107,7 +18459,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-paid-social-stonefish": {
    "site": "Bark",
@@ -18121,7 +18474,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-paid-social-family-couch": {
    "site": "Bark",
@@ -18135,7 +18489,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/online-predators": {
    "site": "Bark",
@@ -18175,7 +18530,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-sa-paid-social-stonefish-video": {
    "site": "Bark",
@@ -18189,7 +18545,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-sa-family-couch-video": {
    "site": "Bark",
@@ -18203,7 +18560,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/ps-sa-parentalcontrol-general": {
    "site": "Bark",
@@ -18217,7 +18575,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/top-5-ios-tech-tips": {
    "site": "Bark",
@@ -18506,7 +18865,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/about/titania-jordan": {
    "site": "Bark",
@@ -18984,7 +19344,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/download-report-2025": {
    "site": "Bark",
@@ -19044,7 +19405,8 @@
    "dates_checked": "2026-11-09T16:29:16+00:00",
    "kind": "bulk",
    "event": "2026-11-03T19:05:14+00:00",
-   "bulk_type": "edit"
+   "bulk_type": "edit",
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/k-12": {
    "site": "Bark",
@@ -19117,7 +19479,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/products-bfs": {
    "site": "Bark",
@@ -19703,16 +20066,20 @@
    "site": "Bark",
    "url": "https://www.bark.us/learn/bark-phone-wifi/",
    "title": "Bark phone wifi",
-   "date": "2026-07-07T21:11:34+00:00",
-   "lastmod": "2026-07-07T21:11:34+00:00",
+   "date": "2026-11-16T15:13:32+00:00",
+   "lastmod": "2026-11-16T15:13:32+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-10-26T13:10:51+00:00",
-   "removed": "2026-11-02T16:04:29+00:00"
+   "pub": "2024-03-22T17:19:05+00:00",
+   "mod": "2026-11-16T15:13:32+00:00",
+   "fp": "9d41ff8fe436ded5",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:13:32+00:00"
   },
   "bark.us/learn/bark-phone-vs-bark-phone-pro": {
    "site": "Bark",
@@ -19804,7 +20171,8 @@
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/learn/starter-plan-bark-phone": {
    "site": "Bark",
@@ -20969,7 +21337,8 @@
    "dates_checked": "2026-11-02T16:04:29+00:00",
    "kind": "updated",
    "event": "2026-11-02T16:05:46+00:00",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/terms-of-use": {
    "site": "Bark",
@@ -21177,7 +21546,7 @@
    "pub": "2026-09-01T19:54:03+00:00",
    "mod": "2026-09-16T19:22:31+00:00",
    "fp": "5fac7aac8365046e",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-09-16T19:22:31+00:00"
   },
@@ -21259,7 +21628,8 @@
    "kind": "bulk",
    "event": "2022-04-28T20:02:14+00:00",
    "bulk_type": "launch",
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/android": {
    "site": "Bark",
@@ -21364,11 +21734,12 @@
    "bulk_mod": true,
    "pub": "2024-11-07T21:48:31+00:00",
    "mod": "2026-09-30T20:39:36+00:00",
-   "fp": "b40954ac1e6e998b",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T20:39:36+00:00",
-   "bulk_type": "edit"
+   "fp": "c15b4ef4a7af8fd6",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/learn/bark-watch-vs-apple-watch": {
    "site": "Bark",
@@ -21475,11 +21846,12 @@
    "bulk_mod": true,
    "pub": "2024-11-07T17:55:36+00:00",
    "mod": "2026-09-30T20:39:47+00:00",
-   "fp": "f4e58e9030c003f1",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T20:39:47+00:00",
-   "bulk_type": "edit"
+   "fp": "b391a7f83c9ecce4",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/learn/bark-watch-vs-verizon-gizmo-watch": {
    "site": "Bark",
@@ -21584,13 +21956,14 @@
    "prog": null,
    "pub": "2024-11-06T22:04:51+00:00",
    "mod": "2026-09-30T20:39:55+00:00",
-   "fp": "004a443699b04fa3",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T20:39:55+00:00",
+   "fp": "5532b47bc9972dd0",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
    "bulk_mod": true,
-   "bulk_type": "edit"
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/learn/bark-watch-vs-t-mobile-syncup": {
    "site": "Bark",
@@ -21611,13 +21984,14 @@
    "prog": null,
    "pub": "2024-11-06T22:03:31+00:00",
    "mod": "2026-09-30T20:39:57+00:00",
-   "fp": "2ded206ca1537867",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T20:39:57+00:00",
+   "fp": "e90d7d0ea730aca2",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
    "bulk_mod": true,
-   "bulk_type": "edit"
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/learn/bark-watch-vs-gabb-watch": {
    "site": "Bark",
@@ -21638,13 +22012,14 @@
    "prog": null,
    "pub": "2024-11-06T21:51:12+00:00",
    "mod": "2026-09-30T20:39:59+00:00",
-   "fp": "ec5826371d1ffa0b",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
-   "kind": "bulk",
-   "event": "2026-09-30T20:39:59+00:00",
+   "fp": "c06ca5d6836ea57b",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
    "bulk_mod": true,
-   "bulk_type": "edit"
+   "bulk_type": "edit",
+   "fp_verified": true
   },
   "bark.us/learn/bark-watch-vs-angel-sense-watch": {
    "site": "Bark",
@@ -21694,7 +22069,7 @@
    "pub": "2023-05-31T20:07:02+00:00",
    "mod": "2026-09-30T22:00:53+00:00",
    "fp": "dae23c0c76bad892",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-09-30T22:00:53+00:00",
    "bulk_pub": false,
@@ -21721,7 +22096,7 @@
    "pub": "2025-09-04T17:25:22+00:00",
    "mod": "2026-09-30T22:01:56+00:00",
    "fp": "e8023eae1ca1b687",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "bulk",
    "event": "2026-09-30T22:01:56+00:00",
    "bulk_pub": false,
@@ -21748,7 +22123,7 @@
    "pub": "2026-01-14T21:38:59+00:00",
    "mod": "2026-09-30T22:03:24+00:00",
    "fp": "0cc1d634fcf975b9",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-10-26T13:10:51+00:00",
    "bulk_pub": false,
@@ -21871,7 +22246,7 @@
    "url": "https://www.bark.us/referral/",
    "title": "Claim your referral discount",
    "date": "2026-10-02T17:54:13+00:00",
-   "lastmod": "2026-11-03T17:09:42+00:00",
+   "lastmod": "2026-11-12T19:18:05+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": false,
@@ -21886,7 +22261,7 @@
    "pub": "2026-08-06T18:28:02+00:00",
    "mod": "2026-10-02T17:54:13+00:00",
    "fp": "0cbf146e4f4f9969",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-11-09T16:29:16+00:00",
    "bulk_pub": false,
@@ -22170,7 +22545,7 @@
    "url": "https://www.bark.us/bark-watch/",
    "title": "The Bark Watch | Bark",
    "date": "2026-10-02T19:32:52+00:00",
-   "lastmod": "2026-11-04T18:08:36+00:00",
+   "lastmod": "2026-11-16T15:20:54+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": true,
@@ -22184,10 +22559,10 @@
    "prog": null,
    "pub": "2024-10-01T00:00:00+00:00",
    "mod": "2026-10-02T19:32:52+00:00",
-   "fp": "b9aacbecec834e9c",
-   "dates_checked": "2026-11-02T16:04:29+00:00",
+   "fp": "116e8c9096a4ae32",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
-   "event": "2026-11-02T16:04:29+00:00",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
    "bulk_mod": false,
    "fp_verified": true
@@ -22267,7 +22642,7 @@
    "pub": "2026-09-10T18:25:45+00:00",
    "mod": "2026-10-13T19:37:09+00:00",
    "fp": "f877b119a2ac12ba",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-10-13T19:37:09+00:00",
    "bulk_pub": false,
@@ -22349,7 +22724,7 @@
    "pub": "2024-09-10T16:21:59+00:00",
    "mod": "2026-10-16T18:35:37+00:00",
    "fp": "3eaef5c149a56209",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-10-16T18:35:37+00:00",
    "bulk_pub": false,
@@ -22435,7 +22810,8 @@
    "bulk_pub": false,
    "bulk_mod": false,
    "fp_verified": true,
-   "missing_since": "2026-11-09T16:29:16+00:00"
+   "missing_since": "2026-11-09T16:29:16+00:00",
+   "removed": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/blog/news": {
    "site": "Bark",
@@ -33561,7 +33937,7 @@
    "pub": "2026-09-17T17:45:24+00:00",
    "mod": "2026-09-17T17:49:37+00:00",
    "fp": "88c49263525a1919",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "unknown",
    "event": "2026-09-17T17:45:24+00:00"
   },
@@ -35148,7 +35524,7 @@
    "url": "https://www.bark.us/answers/",
    "title": "Q&As Archive",
    "date": "2026-09-23T15:14:51+00:00",
-   "lastmod": "2026-11-04T00:52:44+00:00",
+   "lastmod": "2026-11-09T22:34:54+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": true,
@@ -35164,10 +35540,10 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "9684784ce5cc6ca7",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "39d146df3b6bda7e",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
-   "event": "2026-11-09T16:29:16+00:00",
+   "event": "2026-11-16T15:54:50+00:00",
    "fp_verified": true
   },
   "bark.us/answers/what-features-to-look-for-in-a-phone-for-kids": {
@@ -35207,7 +35583,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "bark.us/answers/how-accurate-are-gps-watches-for-kids": {
    "site": "Bark",
@@ -35230,10 +35607,11 @@
    "bulk_mod": false,
    "pub": "2026-09-23T15:14:51+00:00",
    "mod": null,
-   "fp": "cc3f1602b4f9c005",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
-   "kind": "unknown",
-   "event": "2026-09-23T15:14:51+00:00"
+   "fp": "56f01091fdd10dfd",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
+   "fp_verified": true
   },
   "bark.us/app-overview/dropbox": {
    "site": "Bark",
@@ -41682,7 +42060,7 @@
    "url": "https://www.bark.us/content-review/",
    "title": "Content review",
    "date": "2026-10-09T20:42:00+00:00",
-   "lastmod": "2026-11-06T20:19:46+00:00",
+   "lastmod": "2026-11-10T20:10:10+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -45764,7 +46142,7 @@
    "url": "https://www.qustodio.com/en/blog/",
    "title": "Parental control and digital wellbeing software",
    "date": "2026-10-19T12:34:30+00:00",
-   "lastmod": "2026-11-05T14:46:37+00:00",
+   "lastmod": "2026-11-10T11:05:31+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": true,
@@ -45779,7 +46157,7 @@
    "pub": "2021-07-09T15:15:23+00:00",
    "mod": "2025-10-24T09:58:40+00:00",
    "fp": "8138127ebe502545",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2025-10-24T09:58:40+00:00",
    "bulk_pub": false,
@@ -45790,7 +46168,7 @@
    "url": "https://www.qustodio.com/zh-hans/blog/",
    "title": "Blog",
    "date": "2026-10-19T12:34:30+00:00",
-   "lastmod": "2026-11-05T14:46:37+00:00",
+   "lastmod": "2026-11-10T11:05:31+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": null,
    "baseline": true,
@@ -50764,7 +51142,7 @@
    "url": "https://www.qustodio.com/en/blog/should-i-get-my-child-a-phone-checklist/",
    "title": "Should I get my child a phone? The complete guide",
    "date": "2026-10-01T08:11:34+00:00",
-   "lastmod": "2026-10-01T08:11:34+00:00",
+   "lastmod": "2026-11-10T11:05:31+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": true,
@@ -50778,12 +51156,13 @@
    "prog": null,
    "pub": "2025-12-01T07:00:12+00:00",
    "mod": "2026-10-01T08:11:34+00:00",
-   "fp": "473b3c69d3d6bfa4",
-   "dates_checked": "2026-11-09T16:29:16+00:00",
+   "fp": "65ef18731b0fdbae",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
-   "event": "2026-10-01T08:11:34+00:00",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "qustodio.com/zh-hans/blog/should-i-get-my-child-a-phone-checklist": {
    "site": "Qustodio",
@@ -52148,12 +52527,13 @@
    "prog": null,
    "pub": "2024-09-30T17:25:01+00:00",
    "mod": "2026-08-26T14:16:38+00:00",
-   "fp": "5070130862ecc3fb",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "fp": "f97f9997a37954d7",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
-   "event": "2026-08-26T14:16:38+00:00",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "qustodio.com/zh-hans/%e6%b3%a8%e5%86%8c": {
    "site": "Qustodio",
@@ -52286,7 +52666,7 @@
    "url": "https://www.qustodio.com/en/premium/",
    "title": "Qustodio Premium",
    "date": "2026-10-13T10:17:07+00:00",
-   "lastmod": "2026-10-13T10:17:07+00:00",
+   "lastmod": "2026-11-11T16:51:08+00:00",
    "first_seen": "2026-10-20T02:19:58+00:00",
    "cls": {
     "is_content": false,
@@ -52300,12 +52680,13 @@
    "prog": null,
    "pub": "2024-09-30T14:44:49+00:00",
    "mod": "2026-10-13T10:17:07+00:00",
-   "fp": "ba9096ad1bbaa956",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "fp": "5593a26ef98902ad",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
-   "event": "2026-10-13T10:17:07+00:00",
+   "event": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "qustodio.com/zh-hans/premium": {
    "site": "Qustodio",
@@ -53018,7 +53399,7 @@
    "pub": "2024-08-19T13:02:37+00:00",
    "mod": "2026-10-01T12:52:23+00:00",
    "fp": "a86742c7421b853e",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-10-01T12:52:23+00:00",
    "bulk_pub": false,
@@ -53044,7 +53425,7 @@
    "pub": "2024-08-18T07:00:53+00:00",
    "mod": "2026-10-01T12:57:11+00:00",
    "fp": "942e7bbc000c6d0b",
-   "dates_checked": "2026-10-20T02:19:58+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "kind": "updated",
    "event": "2026-10-01T12:57:11+00:00",
    "bulk_pub": false,
@@ -53579,7 +53960,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/parental-control/vivo": {
    "site": "Find My Kids",
@@ -54853,7 +55235,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/is-twitch-safe-for-kids": {
    "site": "Find My Kids",
@@ -55828,7 +56211,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/how-to-block-apps-on-app-store": {
    "site": "Find My Kids",
@@ -56244,7 +56628,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/best-app-blockers": {
    "site": "Find My Kids",
@@ -56634,7 +57019,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/among-us-game-for-kids": {
    "site": "Find My Kids",
@@ -59260,7 +59646,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/ipad-kids": {
    "site": "Find My Kids",
@@ -59585,7 +59972,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/best-vitamins-for-kids": {
    "site": "Find My Kids",
@@ -60352,7 +60740,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-16T15:54:50+00:00"
   },
   "findmykids.org/blog/en/is-capcut-safe-for-kids": {
    "site": "Find My Kids",
@@ -67582,7 +67971,7 @@
    "url": "https://www.life360.com/blog",
    "title": "Real-Life Family Safety Stories | Life360 Blog",
    "date": "2026-08-25T00:00:00+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-26T13:10:51+00:00",
    "cls": {
     "is_content": true,
@@ -67609,7 +67998,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-singles",
    "title": "Tile Singles",
    "date": "2026-10-26T13:10:51+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-10-26T13:10:51+00:00",
    "cls": {
     "is_content": false,
@@ -67735,7 +68124,7 @@
    "pub": "2026-10-21T19:43:01+00:00",
    "mod": null,
    "fp": "c0e63438c0e80e5c",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
    "bulk_mod": false
   },
@@ -67860,15 +68249,16 @@
     "why": "Educates parents and educators on managing kids' phone access while building digital safety habits."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-10-26T13:10:51+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "prog": null,
    "pub": "2026-10-21T19:57:55+00:00",
    "mod": null,
-   "fp": "8c57785a0eefc48c",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "fp": "cc1946fa4243f2d3",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "bark.us/learn/bcp-resources/using-gradual-phone-access-to-teach-critical-skills": {
    "site": "Bark",
@@ -67886,15 +68276,16 @@
     "why": "Educates parents on phased device access approach, building trust in Bark's philosophy."
    },
    "baseline": false,
-   "kind": "new",
-   "event": "2026-10-26T13:10:51+00:00",
+   "kind": "updated",
+   "event": "2026-11-16T15:54:50+00:00",
    "prog": null,
    "pub": "2026-10-21T20:05:11+00:00",
    "mod": null,
-   "fp": "c0e9d39323684f95",
-   "dates_checked": "2026-10-26T13:10:51+00:00",
+   "fp": "5ce837947ad90d08",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "bark.us/learn/bcp-resources/meet-students-where-they-are-back-to-school-briefing-on-emerging-student-safety-trends": {
    "site": "Bark",
@@ -67980,7 +68371,7 @@
    "url": "https://www.life360.com/tile-trackers/products/tile-hello-kitty-and-friends",
    "title": "Tile Hello Kitty & Friends",
    "date": "2026-11-02T16:04:29+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-11-02T16:04:29+00:00",
    "cls": {
     "is_content": false,
@@ -68240,7 +68631,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-4-pack-navy-blaze-pink-punch-black-black",
    "title": "Tile 4 pack navy blaze pink punch black black",
    "date": "2026-11-09T16:29:16+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-11-09T16:29:16+00:00",
    "cls": null,
    "baseline": false,
@@ -68253,7 +68644,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-hello-kitty",
    "title": "Tile hello kitty",
    "date": "2026-11-09T16:29:16+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-11-09T16:29:16+00:00",
    "cls": null,
    "baseline": false,
@@ -68266,7 +68657,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-my-melody",
    "title": "Tile my melody",
    "date": "2026-11-09T16:29:16+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-11-09T16:29:16+00:00",
    "cls": null,
    "baseline": false,
@@ -68279,7 +68670,7 @@
    "url": "https://www.life360.com/tile-trackers/product/tile-tuxedo-sam",
    "title": "Tile tuxedo sam",
    "date": "2026-11-09T16:29:16+00:00",
-   "lastmod": null,
+   "lastmod": "2026-11-14T14:35:39+00:00",
    "first_seen": "2026-11-09T16:29:16+00:00",
    "cls": null,
    "baseline": false,
@@ -70405,6 +70796,412 @@
    "dates_checked": "2026-11-09T16:29:16+00:00",
    "bulk_pub": false,
    "bulk_mod": false
+  },
+  "life360.com/tile-trackers/products/bluetooth-trackers": {
+   "site": "Life360",
+   "url": "https://www.life360.com/tile-trackers/products/bluetooth-trackers",
+   "title": "Bluetooth trackers",
+   "date": "2026-11-14T14:35:39+00:00",
+   "lastmod": "2026-11-14T14:35:39+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": "tile-trackers"
+  },
+  "bark.us/blog/new-releases-holiday-season-2026": {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/new-releases-holiday-season-2026/",
+   "title": "What’s Coming Out This Holiday Season: A Parent’s Guide to New Movies, TV, and Games",
+   "date": "2026-11-10T15:46:32+00:00",
+   "lastmod": "2026-11-10T15:46:32+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "list",
+    "stage": "learning",
+    "topic": "Holiday movies TV shows games for kids",
+    "search": "best new movies shows games holiday 2026",
+    "why": "Builds authority on family entertainment while positioning Bark as trusted parenting guide."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": "2026-11-10T15:46:30+00:00",
+   "mod": "2026-11-10T15:46:32+00:00",
+   "fp": "eeab1113b156dd62",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "bark.us/blog/celebrating-world-kindness-day-online": {
+   "site": "Bark",
+   "url": "https://www.bark.us/blog/celebrating-world-kindness-day-online/",
+   "title": "Celebrating World Kindness Day: How to Encourage Kindness Online",
+   "date": "2026-11-12T19:33:24+00:00",
+   "lastmod": "2026-11-12T19:33:24+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Encourage kindness online children",
+    "search": "how to teach kids kindness online",
+    "why": "Builds trust by positioning Bark as a parenting expert on digital citizenship."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": "2026-11-12T19:33:06+00:00",
+   "mod": "2026-11-12T19:33:24+00:00",
+   "fp": "b7db501d44f905b5",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "bark.us/learn/bcp-resources/growing-up-in-a-digital-world-artificial-intelligence-and-boys": {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/growing-up-in-a-digital-world-artificial-intelligence-and-boys/",
+   "title": "Growing Up in a Digital World: Artificial Intelligence and Boys",
+   "date": "2026-11-10T15:28:44+00:00",
+   "lastmod": "2026-11-10T15:28:44+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "Artificial intelligence boys digital safety",
+    "search": "artificial intelligence effects boys growing up",
+    "why": "Establishes thought leadership on emerging AI risks for young males."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": "2026-11-10T15:28:44+00:00",
+   "mod": null,
+   "fp": "19fb80f8a9e81727",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "bark.us/learn/bcp-resources/in-practice-how-gateway-academy-introduces-technology": {
+   "site": "Bark",
+   "url": "https://www.bark.us/learn/bcp-resources/in-practice-how-gateway-academy-introduces-technology/",
+   "title": "In practice: How Gateway Academy Introduces Technology",
+   "date": "2026-11-10T15:35:52+00:00",
+   "lastmod": "2026-11-10T15:35:52+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "customers",
+    "topic": "Technology education and monitoring in schools",
+    "search": "healthy technology habits for students",
+    "why": "Shows how schools use Bark Phones to teach responsible technology use alongside clinical support."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": "2026-11-10T15:35:34+00:00",
+   "mod": "2026-11-10T15:35:52+00:00",
+   "fp": "aaa03230f4c3619e",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "bark.us/content-review/the-inheritance-games-review": {
+   "site": "Bark",
+   "url": "https://www.bark.us/content-review/the-inheritance-games-review/",
+   "title": "The inheritance games review",
+   "date": "2026-11-10T19:59:30+00:00",
+   "lastmod": "2026-11-10T19:59:30+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": "content-review"
+  },
+  "bark.us/content-review/herd-mentality-review": {
+   "site": "Bark",
+   "url": "https://www.bark.us/content-review/herd-mentality-review/",
+   "title": "Herd mentality review",
+   "date": "2026-11-10T20:10:10+00:00",
+   "lastmod": "2026-11-10T20:10:10+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": "content-review"
+  },
+  "qustodio.com/en/website-terms-of-use": {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/en/website-terms-of-use/",
+   "title": "Website Terms of Use",
+   "date": "2026-11-12T15:21:10+00:00",
+   "lastmod": "2026-11-12T15:21:10+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "Website Terms of Use legal",
+    "search": "",
+    "why": "Required legal disclosure for website compliance and user protection."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": "2026-11-12T15:07:49+00:00",
+   "mod": "2026-11-12T15:21:10+00:00",
+   "fp": "f51a3ae89a4f251c",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "qustodio.com/zh-hans/website-terms-of-use": {
+   "site": "Qustodio",
+   "url": "https://www.qustodio.com/zh-hans/website-terms-of-use/",
+   "title": "Website terms of use",
+   "date": "2026-11-13T08:42:34+00:00",
+   "lastmod": "2026-11-13T08:42:34+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": "zh-hans"
+  },
+  "findmykids.org/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/et/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/et/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/zhcn/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/zhcn/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/lt/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/lt/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/sq/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/sq/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/sr/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/sr/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/el/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/el/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/ro/features/super-signal": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/ro/features/super-signal",
+   "title": "Super signal",
+   "date": "2026-08-16T00:00:00+00:00",
+   "lastmod": "2026-08-16T00:00:00+00:00",
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/privacy-center": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/privacy-center",
+   "title": "Privacy Center: Protecting Your Family’s Data | Findmykids",
+   "date": "2026-11-16T15:54:50+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "Privacy policy and data protection",
+    "search": "",
+    "why": "Builds trust with existing users by transparently explaining data practices."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "03c554cf247c9826",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/et/privacy-center": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/et/privacy-center",
+   "title": "Privaatsuskeskus: teie pere andmete kaitsmine | Findmykids",
+   "date": "2026-11-16T15:54:50+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "Privacy policy and data protection",
+    "search": "",
+    "why": "Builds trust with existing users by transparently explaining data handling practices."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "2bd7cacd05de90e7",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/lt/privacy-center": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/lt/privacy-center",
+   "title": "Privatumo centras: Jūsų šeimos duomenų apsauga | Findmykids",
+   "date": "2026-11-16T15:54:50+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "Privacy and data protection",
+    "search": "family location sharing privacy policy",
+    "why": "Builds trust with existing users by transparently explaining data handling practices."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "223a22220355c697",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "findmykids.org/zhcn/privacy-center": {
+   "site": "Find My Kids",
+   "url": "https://findmykids.org/zhcn/privacy-center",
+   "title": "隐私中心：守护家人的数据安全 | Findmykids",
+   "date": "2026-11-16T15:54:50+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-16T15:54:50+00:00",
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "customers",
+    "topic": "Privacy and data protection",
+    "search": "",
+    "why": "Builds trust with existing users by transparently explaining data handling practices."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-16T15:54:50+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "66adf3b9576b4567",
+   "dates_checked": "2026-11-16T15:54:50+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
   }
  },
  "sites": {
@@ -70414,11 +71211,11 @@
   },
   "Bark": {
    "initialized": true,
-   "count": 3212
+   "count": 3217
   },
   "Qustodio": {
    "initialized": true,
-   "count": 553
+   "count": 555
   },
   "GeoZilla": {
    "initialized": true,
@@ -70426,7 +71223,7 @@
   },
   "Find My Kids": {
    "initialized": true,
-   "count": 992
+   "count": 996
   },
   "Google Family Link": {
    "initialized": true,
