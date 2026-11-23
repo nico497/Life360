@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Family location sharing, driving safety, and family-safety mobile apps",
   "you": "Life360",
-  "generated": "2026-11-16T15:57:41+00:00",
+  "generated": "2026-11-23T18:21:06+00:00",
   "state_updated": "2026-10-20T02:19:58+00:00",
   "repo": "nico497/Life360"
  },
@@ -47,8 +47,8 @@
   },
   {
    "name": "Bark",
-   "tracked": 3383,
-   "considered": 2264,
+   "tracked": 3386,
+   "considered": 2267,
    "own_pricing": "https://www.bark.us/pricing/",
    "hubs": []
   },
